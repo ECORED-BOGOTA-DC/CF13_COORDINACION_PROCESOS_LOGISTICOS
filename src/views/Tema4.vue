@@ -327,6 +327,130 @@
         p En otras palabras, una vez efectuada la detección y habiendo determinado las necesidades de la capacitación se debe iniciar a preparar el plan de formación de capacitación que se va impartir en los empleados de la organización a la cual prestan sus servicios en el desarrollo de las actividades. 
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema4/img-20.png" style="max-width: 295px;" data-aos="fade-left")
     p.text-center.fw-bold El programa de capacitación debe ir sistematizado de la siguiente forma:
+
+
+    .container-100.py-4.mb-4(
+      style="background-color: #EFF4FF"
+    )
+      .d-flex.flex-wrap.align-items-center.position-relative
+        img.col-md-5.mx-auto.mb-4(src="@/assets/curso/temas/tema4/img-21.svg" style="max-width: 400px;" data-aos="fade-right")
+        .col-md-7.ps-md-4(data-aos="fade-left")
+          ul
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 1.
+              | ¿Cuál es la necesidad?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 2.
+              | ¿Dónde fue determinada la necesidad?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 3.
+              | ¿Ocurre en otra área o departamento?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 4.
+              | ¿Cuál es su causa?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 5.
+              | ¿Es parte de una necesidad mayor?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 6.
+              | ¿Cómo resolver individualmente o en conjunto?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 7.
+              | ¿Es necesario tomar una medida antes de resolverla?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 8.
+              | ¿La necesidad es inmediata? ¿Cuál es su prioridad con relación con las demás?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 9.
+              | ¿La necesidad es permanente o temporal?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 10.
+              | ¿Cuántas personas y cuántos servicios serán atendidos?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 11.
+              | ¿Cuánto tiempo tenemos disponible para la capacitación?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 12.
+              | ¿Cuál es el costo probable de la capacitación?
+            li
+              span.pe-2.fw-bold(style="color: #FE7062") 13.
+              | ¿Quién realizará la capacitación?
+
+    p.text-center.fw-bold.mb-5 La detección de las necesidades de capacitación debe proporcionar la siguiente información para poder trazar el plan de capacitación tal como lo dice Chiavenato (2007):  
+
+    .d-flex.flex-wrap.justify-content-center.tarjeta.p-4.mb-5(style="background-color: #F6F6F6")
+      .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2(data-aos="fade-right")
+        .d-flex.tarjeta-introduccion(style="background-color: #C4F2F1")
+          p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold ¿Qué se debe enseñar?
+      .mx-xl-2
+      .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2.mx-xl-0(data-aos="fade-right")
+        .d-flex.tarjeta-introduccion(style="background-color: #D8E4FD")
+          p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold ¿Quién debe aprender?
+      .mx-xl-2
+      .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2.mx-xl-0(data-aos="fade-right")
+        .d-flex.tarjeta-introduccion(style="background-color: #C4F2F1")
+          p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold ¿Cuándo se debe enseñar?
+      .mx-xl-2
+      .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2.mx-xl-0(data-aos="fade-right")
+        .d-flex.tarjeta-introduccion(style="background-color: #D8E4FD")
+          p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold ¿Dónde se debe enseñar?
+      .mx-xl-2
+      .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2.mx-xl-0(data-aos="fade-right")
+        .d-flex.tarjeta-introduccion(style="background-color: #C4F2F1")
+          p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold ¿Cómo se debe enseñar?
+      .mx-xl-2
+      .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2.mx-xl-0(data-aos="fade-right")
+        .d-flex.tarjeta-introduccion(style="background-color: #D8E4FD")
+          p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold ¿Quién lo debe enseñar? 
+
+    p.mb-5 Luego de la identificación de las necesidades de capacitación se procede al trabajo con los diferentes departamentos de la empresa en busca de un plan de trabajo para la elaboración de estos elementos básico; el cronograma es fundamental por tiempo y espacio; por lo general los tiempos de capacitación son establecidos entre las empresas y los colaboradores y posterior a tener ese espacio en la agenda se requiere un programa de inducción que debe contener los siguientes ítems preferiblemente:
+
+    .d-flex.flex-wrap.mb-5
+      img.col-xl-4.col-lg-5.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema4/img-22.png" style="max-width: 400px")
+      .col-xl-8.col-lg-7.ps-lg-4
+        ul.lista-ul--separador
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | La historia de la empresa.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Los productos o servicios que ofrece.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Los derechos y las obligaciones del personal.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Los términos del contrato de trabajo.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Las actividades sociales de los empleados, sus prestaciones y servicios.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Las normas y el reglamento interior de trabajo. 
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Algunas nociones sobre protección y seguridad laboral.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | El cargo, que se ocupara; naturaleza del trabajo, honorarios, salarios, oportunidades de ascensos.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | El supervisor del nuevo empleado(presentación).
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | Las relaciones del puesto con otros puestos.
+          li.pb-2.mb-2
+            i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
+            | La descripción detallada del puesto. 
+
+    .tarjeta-avatar-b.col-xl-8.mx-xl-auto.mb-5
+      .tarjeta-avatar-b__img
+        img.mx-auto(src='@/assets/curso/temas/tema4/img-23.svg' style="max-width: 104px")
+      .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
+        .p-4.py-md-3.d-flex.flex-wrap.align-items-center
+          p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Con el programa de inducción se busca la introducción y adaptación del trabajador a su lugar de trabajo.
+
+
 </template>
 
 <script>

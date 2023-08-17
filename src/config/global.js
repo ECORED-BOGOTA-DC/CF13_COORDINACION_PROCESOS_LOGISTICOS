@@ -187,32 +187,117 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Necesidades del talento humano en los procesos logísticos',
+      referencia:
+        'Armijos, F. Bermúdez, A. & Mora N. (2009). <em>Gestión de administración de los Recursos Humanos.</em>',
+      tipo: 'Articulo',
+      link:
+        'http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2218-36202019000400163',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: 'Accidente laboral',
+      significado:
+        'evento que sucede dentro de la empresa en donde uno o más colaboradores presentan una dificultad de salud física o mental inesperada, que lo afecta en el desarrollo de sus labores.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: 'Análisis',
+      significado:
+        'distinción y separación de las partes de algo para conocer su composición. (RAE, 2020).',
+    },
+    {
+      termino: 'Análisis ocupacional',
+      significado:
+        'proceso en el que se identifican las necesidades de una ocupación o perfil ocupacional, pueden verse las aptitudes y responsabilidades que las personas deben tener para desempeñar satisfactoriamente una función.',
+    },
+    {
+      termino: 'Competencia',
+      significado:
+        'habilidad demostrada para aplicar conocimientos y aptitudes (ISO 9000:2000).',
+    },
+    {
+      termino: 'Eficacia',
+      significado: 'indicador de metas, objetivos, acercamiento al logro.',
+    },
+    {
+      termino: 'Eficiencia',
+      significado:
+        'indicador de menor costo de una meta según los factores usados para ello.',
+    },
+    {
+      termino: 'Enfermedad profesional',
+      significado:
+        'enfermedad que es generada a causa del cumplimiento y desarrollo de actividades laborales en una persona.',
+    },
+    {
+      termino: 'Planificación administrativa',
+      significado:
+        'proceso racional de previsión, estructuración, diseño y asignación óptima de recursos organizaciones, para alcanzar resultados en un tiempo y espacio dados.',
+    },
+    {
+      termino: 'Reclutamiento',
+      significado:
+        'es una actividad de la empresa que se ocupa de atraer a las personas adecuadas para un determinado puesto de trabajo.',
+    },
+    {
+      termino: 'Vacante',
+      significado:
+        'puesto de trabajo disponible en la empresa que aún no está cubierto.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'ANDI Asociación Nacional de Empresarios de Colombia. (2020). <em>Obligaciones de los empleadores.</em>',
+      link:
+        'https://cmdcertification.com/wp-content/uploads/2018/09/02-DIA-3-Lectura-y-Taller-1.pdf',
+    },
+    {
+      referencia:
+        'Chiavenato, I. (2007). <em>Administración Recursos Humanos.</em> Mc GrawHill.',
       link: '',
+    },
+    {
+      referencia:
+        'Escudero, M. J. (2013). <em>Gestión Logística y Comercial.</em> Mc GrawHill.',
+      link: '',
+    },
+    {
+      referencia:
+        'Gerencia de Recursos Humanos. (2012). <em>Evaluación de desempeño.</em>',
+      link:
+        'http://gerenciaderecursoshumanosipc.blogspot.com/2012/01/evaluacion-de-desempeno.html',
+    },
+    {
+      referencia:
+        'HBP Human Business Partner. (2014). <em>Pruebas Online de evaluación de talento humano.</em>',
+      link: 'https://www.youtube.com/watch?v=jsW5yEbZMTQ',
+    },
+    {
+      referencia:
+        'ISO 9000:2000. (2000). <em>Las normas ISO 9000:2000 de Sistemas de Gestión de la Calidad.</em>',
+      link:
+        'https://gestiondecalidadmpn.files.wordpress.com/2012/02/iso-9000-2000-sistemas-de-gestic3b3n-de-la-calidad-conceptos-y-vocabulario.pdf',
+    },
+    {
+      referencia:
+        'Kabboul, F. (2014). <em>Proceso de mejoramiento continuo.</em>',
+      link:
+        'https://gestionempresarial14.wordpress.com/proceso-de-mejoramiento-continuo/',
+    },
+    {
+      referencia:
+        'Nagales, G. (2007). La gestión del conocimiento como fuente de innovación. <em>Revista Escuela de Administración de Negocios</em>, núm. 61, septiembre-diciembre, 2007, pp. 77-87.',
+      link: 'https://www.redalyc.org/pdf/206/20611495008.pdf',
+    },
+    {
+      referencia: 'QuestionPro (s.f.). ¿Cómo medir el desempeño laboral? ',
+      link: 'https://www.questionpro.com/blog/es/desempeno-laboral/',
+    },
+    {
+      referencia: 'RAE. (2020). Análisis.',
+      link: 'https://dle.rae.es/an%C3%A1lisis',
     },
   ],
   creditos: [
@@ -220,15 +305,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del Ecosistema',
+          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Rafael Neftalí Lizcano Reyes',
-          cargo: 'Responsable de Línea de Producción',
+          nombre: 'Liliana Victoria Morales Gualdrón',
+          cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -236,10 +321,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Nelly Parra Guarín',
+          cargo: 'Adecuación instruccional',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -247,28 +332,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de Contenidos Digitales',
+          nombre: 'Eulises Orduz Amézquita',
+          cargo: 'Diseño web',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Jhon Edinson Castañeda Oviedo',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Lady Adriana Ariza Luque',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Actividad Didáctica',
+          nombre: 'Laura Gisselle Murcia Pardo',
+          cargo: 'Animación y producción audiovisual',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animación y producción audiovisual',
+          centro:
+            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
@@ -276,22 +367,22 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Evaluación de contenidos inclusivos y accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Lina Marcela Pérez Manchego',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          nombre: 'Leyson Fabian Castaño Pérez',
+          cargo: 'Validación de recursos educativos digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro de Gestión De Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
       ],
     },
