@@ -147,7 +147,7 @@
     
     .d-flex.flex-wrap.mb-5
       .col-xl-8.col-lg-7.pe-lg-4.order-2.order-lg-1
-        p La gestión del talento humano no solo se reconoce como una herramienta para fortalecer el capital humano de la organización, ya que hace referencia a un gran proceso global que está formado por los siguientes subprocesos:
+        p.fw-bold También podemos reconocer que aporta grandes cosas fundamentales en el desarrollo del direccionamiento del talento humano como:
         ul.lista-ul--separador
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
@@ -196,11 +196,188 @@
               | Se relaciona a las políticas que están utilizando las organizaciones para hacer de las personas que trabajan en la organización una persona con vocación, que ame lo que desarrolla y se sienta identificada con su cargo o función, la cual le permita quedarse por muchos más años.
     
     p.mb-5 En toda organización cuando hablamos de educación nos referimos a que es de gran importancia realizar los procesos de selección, adaptación y capacitación dentro del ambiente organizacional y cultural para así poder tener el mejor talento. A continuación, encontramos los siguientes modelos estratégicos:
+
+    .d-flex.flex-wrap.mb-5.mb-lg-4
+      TabsA.color-acento-contenido.col-lg-8.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
+        .tarjeta.p-4(titulo="El entrenamiento" style="background-color: #E6FAF9")
+          p.mb-0 Es posibilitar espacios para que el personal de trabajo pueda adquirir habilidades que le permitan realizar su trabajo con productividad. <b>(HACER)</b>.
+        .tarjeta.p-4(titulo="La capacitación" style="background-color: #E6FAF9")
+          p.mb-0 Enseñar a sus empleados a pensar, el para que se ejecuta el trabajo. <b>(SABER HACER)</b>.
+        .tarjeta.p-4(titulo="El desarrollo de personal" style="background-color: #E6FAF9")
+          p.mb-0 Identificar motivaciones y deseos que impulsen a realizar el trabajo con entusiasmo. <b>(HACER+ SABER+QUERER)</b>.
+        .tarjeta.p-4(titulo="El desarrollo organizacional" style="background-color: #E6FAF9")
+          p.mb-0 Enseñar a pensar acorde a la organización. (valores, metas y proyecciones). Hacemos una sumatoria, <b>(HACER+SABER+QUERER+PROYECTAR)</b>.
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 400px;" data-aos="fade-left")
+    
+    Separador 
+
+    .titulo-segundo.color-acento-botones
+      h2#t_2_3 2.3 Entrada, transformación y salida
+    
+    p.mb-5 Reconocemos que en la sociedad moderna casi todo proceso productivo se realiza por medio de las organizaciones. Así la sociedad moderna e industrializada se caracteriza por ser una sociedad compuesta por organizaciones que constituyen sistemas abiertos.
+
+    .tarjeta-avatar-b.col-xl-8.mx-xl-auto.mb-5
+      .tarjeta-avatar-b__img
+        img.mx-auto(src='@/assets/curso/temas/tema2/img-14.svg' style="max-width: 104px")
+      .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
+        .p-4.py-md-3.d-flex.flex-wrap.align-items-center
+          p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") <b>Un sistema es:</b> un conjunto de elementos dinámicamente relacionados que desarrollan una actividad en su entorno en busca del logro de determinado objetivo o propósito que nos conduce al éxito.
+
+    p.mb-5 Podemos decir que un sistema es un conjunto de elementos (partes o áreas compuestas del sistema), que realizan una actividad (operación o proceso), para alcanzar un objetivo o propósito (finalidad).
+
+    p.mb-5.text-center.fw-bold Por lo tanto, debemos tener presente que un sistema está constituido por cuatro elementos esenciales:
+
+    .container-100.py-5.mb-4(
+      style="background-color: #E6FAF9"
+    )
+      .d-flex.flex-wrap.align-items-start.position-relative
+        img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-15.svg" style="max-width: 400px;" data-aos="fade-right")
+        .col-md-7.col-lg-8.ps-md-4(data-aos="fade-left")
+          ul
+            li.d-flex.align-items-start
+              img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
+              p <b>Entradas o insumos</b>
+                br
+                | Todo sistema recibe entradas o insumos provenientes del ambiente externo.
+            li.d-flex.align-items-start
+              img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
+              p <b>Proceso u operación</b>
+                br
+                | Es un núcleo del sistema donde las entradas son procesadas o transformadas en salidas o resultados.
+            li.d-flex.align-items-start
+              img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
+              p <b>Salidas o resultados</b>
+                br
+                | Constituye el resultado de la operación del sistema.
+            li.d-flex.align-items-start
+              img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
+              p <b>Retroalimentación</b>
+                br
+                | Constituye parte de todo el proceso desde el inicio hasta su fin logrando su objetivo propuesto.
+
+    p.mb-5 La función productiva de toda empresa, se reconoce como un proceso de transformación para obtener un producto final, es decir, que un sistema productivo es un proceso en el cual se de manejo a los recursos que entran, se logra obtener una salida, la buena marcha de un sistema se mide por las nociones de eficiencia y de productividad, como la relación entre entradas y salidas. Esto se refleja en la siguiente figura:
+
+    .container-100.py-2(
+      :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
+      style="background-size: contain; background-repeat: no-repeat; background-position: center"
+    )
+      .col-lg-10.col-xl-8.mx-auto
+        .titulo-sexto.color-acento-botones(data-aos="fade-right")
+          h5 Figura 3.
+          span Modelo del sistema productivo como proceso de transformación
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-16.svg" style="max-width: 821px;" data-aos="fade-left")
+
+    p Como actividad logística dentro del sistema del proceso de transformación tenemos que proveer los conocimientos necesarios para apoyar la competitividad del recurso humano a cargo de procesos que impliquen la optimización de los recursos durante la producción, distribución y comercialización.
+
+    p.mb-5 Las empresas industriales se dedican a la fabricación de un determinado producto, por lo que deberán proveerse de materias primas que transformarán en dicho producto, para posteriormente distribuirlo a sus clientes. 
+
+    .cajon.color-primario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
+      p.mb-0 El proceso de fabricación en las empresas industriales supone unos gastos y la utilización de un sistema de producción, basado en el desarrollo del conocimiento y desarrollo de las actividades que realice el personal o capital humano de la empresa, cuyo objetivo es lograr satisfacer necesidades en los clientes a través de los productos o servicios que la empresa ofrece.
+    
+    Separador 
+
+    .titulo-segundo.color-acento-botones
+      h2#t_2_4 2.4 Manual de procesos y procedimientos logísticos
+    
+    .bloque-texto-g.bloque-texto-g--inverso.color-secundario.p-3.p-sm-4.p-md-5.mb-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-17.jpg')})`}"
+      )
+      .bloque-texto-g__texto.p-4(data-aos="fade-right")
+        p.mb-0 El manual de procesos, es también conocido como manual de procedimientos, el cual permite que una organización funcione de manera correcta, debido a que es ahí donde se establecen los estamentos, las políticas, normas, reglamentos, sanciones y todos aquellos lineamientos que se tienen en cuenta para una adecuada gestión de la organización. Dentro del manual de procesos y procedimientos logísticos se establecen las operaciones y actividades que debe realizar el personal de operación logística en las organizaciones.
+    
+    .d-flex.flex-wrap.mb-5.mb-lg-4
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-18.svg" style="max-width: 295px;" data-aos="fade-left")
+      TabsA.color-acento-contenido.col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
+        .tarjeta.p-4(titulo="Compras" style="background-color: #E6FAF9")
+          p.mb-0 Hace parte de la etapa de aprovisionamiento en la que se determina cuáles son los materiales, materias primas e insumos que se necesiten en el proceso de transformación de productos terminados para luego venderlos entre los clientes.
+        .tarjeta.p-4(titulo="Servicio al cliente" style="background-color: #E6FAF9")
+          p.mb-0 Es una herramienta muy importante del marketing, relacionado con un conjunto de estrategias que la empresa diseña para el logro de la satisfacción de los clientes ante la competencia, cumpliendo las expectativas de los clientes internos y externos. Dentro de la cadena de suministro se relaciona como el proceso que abarca todo el ciclo de la orden desde su inicio hasta su fin.
+        .tarjeta.p-4(titulo="Gestión de inventarios" style="background-color: #E6FAF9")
+          p.mb-0 Es otro proceso que podemos destacar dentro de la logística y está relacionado con el control y manejo de los productos.
+        .tarjeta.p-4(titulo="Almacenamiento" style="background-color: #E6FAF9")
+          p.mb-0 Consiste en el manejo temporal de los insumos, materias primas y productos terminados los cuales son puestos bajo control y seguimiento en un determinado espacio para evitar su deterioro hasta el momento de la entrega al cliente.
+        .tarjeta.p-4(titulo="Transporte" style="background-color: #E6FAF9")
+          p.mb-0 Medio para movilizar bienes o personas desde un punto hasta otro.
+
+    p.mb-5 La logística, se refiere y está compuesta por una serie de actividades o procesos, que unidos de una manera eficiente generan un resultado producto terminado o servicio prestado. Según Escudero (2019, P.2); “La logística es una actividad que tiene como finalidad satisfacer las necesidades del cliente, proporcionando productos y servicios en el momento, lugar y cantidad que los solicita, y todo ello al mínimo coste”.
+
+    .container-100.py-2(
+      :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
+      style="background-size: contain; background-repeat: no-repeat; background-position: center"
+    )
+      .col-lg-8.col-xl-6.mx-auto
+        .titulo-sexto.color-acento-botones(data-aos="fade-right")
+          h5 Figura 4.
+          span Modelo sistema de procedimiento logístico
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-19.svg" style="max-width: 610px;" data-aos="fade-left")
+
+    Separador 
+
+    .titulo-segundo.color-acento-botones
+      h2#t_2_5 2.5 Programa de Seguridad y Salud en el Trabajo (SST)
+    
+    p.mb-5 El programa de Seguridad y Salud en el trabajo consiste en la planeación y ejecución de las actividades de medicina, seguridad e higiene industrial, que tiene como objetivo mantener, cuidar y mejorar la salud de los trabajadores en las empresas.
+
+    p.text-center.fw-bold Para ampliar este concepto revisemos las siguientes definiciones:
+
+    .mb-4.col-xl-10.mx-auto.tarjeta--container.row(data-aos="fade-left")
+        .position-relative.col-md.tarjeta.color-primario.p-4.p-xl-5(style="background-color: #C4F2F1")
+          .col-lg-10.col-xl-11.mx-auto.ps-lg-3
+            h3.text-center ¿Qué es la Seguridad y <br>Salud en el Trabajo (SST)?
+            p Consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua, con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y salud en el trabajo de los empleados.
+
+            p La Seguridad y Salud en el Trabajo es la disciplina que trata la prevención de lecciones y enfermedades causadas por las lecciones de trabajo (guía técnica de seguridad y salud en el trabajo para las mipymes).
+            img.img-float-left(src='@/assets/curso/temas/tema2/img-20.svg' style="max-width: 115px")
+
+        .position-relative.col-md.tarjeta.color-acento-botones.p-4.p-xl-5(style="background-color: #D8E4FD")
+          .col-lg-10.col-xl-11.mx-auto.pe-lg-3
+            h3.text-center ¿En qué consiste el sistema de gestión <br>de la Seguridad y Salud en el Trabajo?
+            p Consiste en el desarrollo de un proceso lógico, basado en la mejora continua con el objetivo de anticipar, reconocer, evaluar los riesgos que puedan afectar la Seguridad y Salud en el Trabajo.
+            img.mx-auto(src='@/assets/curso/temas/tema2/img-22.svg' style="max-width: 379px")
+            img.img-float-right(src='@/assets/curso/temas/tema2/img-21.svg' style="max-width: 115px")
+    
+    p.mb-5.text-center Siendo un sistema de gestión sus principios deben estar enfocados en el ciclo PHVA (Planear, Hacer Verificar y Actuar).
+
+    .container-100.py-2.mb-5(
+      :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
+      style="background-size: contain; background-repeat: no-repeat; background-position: center"
+    )
+      .col-lg-10.col-xl-8.mx-auto
+        .titulo-sexto.color-acento-botones(data-aos="fade-right")
+          h5 Figura 4.
+          span Modelo sistema de procedimiento logístico
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-23.svg" style="max-width: 820px;" data-aos="fade-left")
+
+    .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
+      .row.justify-content-around.align-items-center
+        .col-3.col-sm-2.col-lg-1
+          img(src="@/assets/curso/temas/tema2/img-24.svg")
+        .col
+          .row.justify-content-between.align-items-center
+            .col.mb-3.mb-sm-0.texto-blanco
+              h3.mb-1 Obligaciones y responsabilidades
+              p.text-small Es importante que a continuación, lea y revise detenidamente el documento web de la ANDI Asociación Nacional de Empresarios de Colombia (2020) que muestra la jurisprudencia:
+              ul
+                li
+                  i.lista-ul__vineta(style="color: #57DBD8")
+                  | Artículo 2.2.4.6.8. Obligaciones de los empleadores.
+                li
+                  i.lista-ul__vineta(style="color: #57DBD8")
+                  | Artículo 2.2.4.6.10. Responsabilidades de los trabajadores.
+
+            .col-sm-auto
+              a.boton.color-acento-botones(href="https://cmdcertification.com/wp-content/uploads/2018/09/02-DIA-3-Lectura-y-Taller-1.pdf" target="_blank")
+                span Ir al enlace
+                i.fas.fa-link
+
 </template>
 
 <script>
+import TabsA from '../components/TabsA.vue'
 export default {
   name: 'Tema2',
+  components: { TabsA },
   data: () => ({
     // variables de vue
   }),
@@ -215,4 +392,23 @@ export default {
 }
 </script>
 
-<style lang="sass"></style>
+<style lang="sass">
+.img-float-left
+  position: absolute
+  top: 50%
+  transform: translateY(-50%)
+  left: -57px
+  @media (max-width: 1200px)
+    left: -50px
+  @media (max-width: 991px)
+    display: none
+.img-float-right
+  position: absolute
+  top: 50%
+  transform: translateY(-50%)
+  right: -57px
+  @media (max-width: 1200px)
+    right: -50px
+  @media (max-width: 991px)
+    display: none
+</style>

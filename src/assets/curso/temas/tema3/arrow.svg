@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36.502" height="28.002" viewBox="0 0 36.502 28.002">
+  <defs>
+    <filter id="Unión_1">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.329" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g data-type="innerShadowGroup">
+    <path id="Unión_1-2" data-name="Unión 1" d="M10504.572,11721.39H10488V11707h16.573v-7l19.929,14-19.929,14Z" transform="translate(-10487.999 -11699.999)" fill="#727997"/>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Unión_1)">
+      <path id="Unión_1-3" data-name="Unión 1" d="M10504.572,11721.39H10488V11707h16.573v-7l19.929,14-19.929,14Z" transform="translate(-10488 -11700)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
