@@ -326,6 +326,35 @@ export default {
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
+        {
+          nombre: 'Gustavo Alonso Pineda',
+          cargo: 'Experto Temático',
+          centro:
+            'Regional Huila - Centro de la Industria, la Empresa y los Servicios',
+        },
+        {
+          nombre: 'Liliana Victoria Morales Gualdron',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
+        {
+          nombre: 'Andrés Felipe Velandia Espitia',
+          cargo: 'Revisor Metodológico y Pedagógico',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Revisión y corrección de estilo',
+          centro:
+            'Regional Distrito Capital - Centro para la Industria de la Comunicación Gráfica',
+        },
       ],
     },
     {

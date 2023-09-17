@@ -26,13 +26,13 @@
           li.pb-2.mb-2
             span.fw-bold(style="color: #FE7062") e.
             | Relaciones laborales.
-      img.col-xl-5.col-lg-6.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-1.png" style="max-width: 505px")
+      img.col-xl-5.col-lg-6.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-1.png" style="max-width: 505px" alt="Imagen decorativa")
 
     .container-100.py-5.mb-4(
       style="background-color: #E6FAF9"
     )
       .d-flex.flex-wrap.align-items-start.position-relative
-        img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-2.svg" style="max-width: 400px;" data-aos="fade-right")
+        img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-2.svg" style="max-width: 400px;" data-aos="fade-right" alt="Imagen decorativa")
         .col-md-7.col-lg-8.ps-md-4(data-aos="fade-left")
           ul
             li.d-flex.align-items-start
@@ -88,7 +88,7 @@
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 2.
           span Modelo gestión del talento humano vs gestión del recurso humano
-        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-4.svg" style="max-width: 821px;" data-aos="fade-left")
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-4.svg" style="max-width: 821px;" data-aos="fade-left" alt="Imagen que indica los aspectos del modelo de talento humano y el de recurso humano, los cuales son: Gestión de talento humano: Maximizar el talento con el que cuenta la organización Promueve el desarrollo y liderazgo Planeación para el personal a mediano y largo plazo Una estrategia integral para capacitar y retener Inclusión a todos los niveles de la organización Gestión del recurso humano: Pago de nóminas, vacaciones, incentivos y beneficios. Ubicación, selección y requisitos de contratación. Se enfoca en el cumplimiento de lo táctico por parte del personal. Contratar para cumplir requerimientos de perfiles. Involucra a todos los niveles de requerimientos.")
         p En la figura 2 se puede apreciar que existen varias diferencias entre la gestión del talento humano y la gestión del recurso humano, toda vez que la gestión del talento humano se centra en las acciones que conducen al bienestar de la organización partiendo del bienestar del funcionario, mientras que la gestión del recurso humano se focaliza en el cumplimiento del trabajo y el reconocimiento de los derechos del funcionario como trabajador, aunque cabe aclarar que estos dos tipos de gestión tienen el mismo objetivo que es la optimización de los recursos para el eficiente funcionamiento de la organización.
     
     Separador 
@@ -104,7 +104,7 @@
         p.mb-0 Se relaciona en un proceso, que surgió en los años 20 y se continúa adoptando por las organizaciones, ya que reconocen el impulso del éxito de sus negocios gracias al talento y habilidades de sus empleados desarrolladas en sus funciones asignadas. 
     
     .d-flex.flex-wrap.mb-5.mb-lg-4
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-6.png" style="max-width: 295px;" data-aos="fade-left")
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-6.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
         p.fw-bold ¿Por qué es importante la Dirección del Talento Humano?
         ul.lista-ul--separador
@@ -132,17 +132,17 @@
     .d-flex.flex-wrap.justify-content-center.mb-5.col-xl-10.mx-auto
       .col-xl.px-md-2.d-flex
         .tarjeta-edit-1.w-100.me-md-0(style="border-radius: 0; background: linear-gradient(0deg, #F8F8F8 0%,  #FFFFFF 100%);")
-          img.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-7.svg" style="max-width: 146px")
+          img.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-7.svg" style="max-width: 146px" alt="Imagen decorativa")
           h5.mb-0.text-center La Planeación
       
       .col-xl.px-md-2.d-flex
         .tarjeta-edit-1.w-100.me-md-0(style="border-radius: 0; background: linear-gradient(0deg, #F8F8F8 0%,  #FFFFFF 100%);")
-          img.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 146px")
+          img.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-8.svg" style="max-width: 146px" alt="Imagen decorativa")
           h5.mb-0.text-center La Organización
       
       .col-xl.px-md-2.d-flex
         .tarjeta-edit-1.w-100.me-md-0(style="border-radius: 0; background: linear-gradient(0deg, #F8F8F8 0%,  #FFFFFF 100%);")
-          img.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 146px")
+          img.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-9.svg" style="max-width: 146px" alt="Imagen decorativa")
           h5.mb-0.text-center La Coordinación
     
     .d-flex.flex-wrap.mb-5
@@ -161,11 +161,11 @@
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
             | Gestión del cambio en la empresa.
-      img.col-xl-4.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-10.svg" style="max-width: 505px")
+      img.col-xl-4.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema2/img-10.svg" style="max-width: 505px" alt="Imagen decorativa")
 
     .tarjeta-avatar-b.col-xl-11.mx-xl-auto
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema2/img-11.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema2/img-11.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") En el país existe una ley que la regula, la ley 1164 del 2007, por la cual se establecen las obligaciones y procesos de planeación, formación y control de servicios que cada empleado tiene de acuerdo a sus funciones asignadas.
@@ -175,8 +175,10 @@
     .titulo-segundo.color-acento-botones
       h2#t_2_2 2.2 Funciones de la dirección del talento humano
     
+    p.mb-5(data-aos="fade-right") Dentro del proceso del direccionamiento del talento humano encontramos las siguientes funciones:
+    
     .d-flex.flex-wrap.mb-5
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-12.svg" style="max-width: 295px;" data-aos="fade-left")
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-12.svg" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
         ul
           li.d-flex.align-items-start
@@ -195,7 +197,7 @@
               br
               | Se relaciona a las políticas que están utilizando las organizaciones para hacer de las personas que trabajan en la organización una persona con vocación, que ame lo que desarrolla y se sienta identificada con su cargo o función, la cual le permita quedarse por muchos más años.
     
-    p.mb-5 En toda organización cuando hablamos de educación nos referimos a que es de gran importancia realizar los procesos de selección, adaptación y capacitación dentro del ambiente organizacional y cultural para así poder tener el mejor talento. A continuación, encontramos los siguientes modelos estratégicos:
+    p.mb-5 En toda organización, cuando hablamos de educación nos referimos a que es de gran importancia realizar los procesos de selección, adaptación y capacitación dentro del ambiente organizacional y cultural para así poder tener el mejor talento. A continuación, encontramos los siguientes modelos estratégicos:
 
     .d-flex.flex-wrap.mb-5.mb-lg-4
       TabsA.color-acento-contenido.col-lg-8.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
@@ -207,18 +209,18 @@
           p.mb-0 Identificar motivaciones y deseos que impulsen a realizar el trabajo con entusiasmo. <b>(HACER+ SABER+QUERER)</b>.
         .tarjeta.p-4(titulo="El desarrollo organizacional" style="background-color: #E6FAF9")
           p.mb-0 Enseñar a pensar acorde a la organización. (valores, metas y proyecciones). Hacemos una sumatoria, <b>(HACER+SABER+QUERER+PROYECTAR)</b>.
-      img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 400px;" data-aos="fade-left")
+      img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema2/img-13.svg" style="max-width: 400px;" data-aos="fade-left" alt="Imagen decorativa")
     
     Separador 
 
     .titulo-segundo.color-acento-botones
       h2#t_2_3 2.3 Entrada, transformación y salida
     
-    p.mb-5 Reconocemos que en la sociedad moderna casi todo proceso productivo se realiza por medio de las organizaciones. Así la sociedad moderna e industrializada se caracteriza por ser una sociedad compuesta por organizaciones que constituyen sistemas abiertos.
+    p.mb-5 Reconocemos que en la sociedad moderna casi todo proceso productivo se realiza por medio de las organizaciones. Así, la sociedad moderna e industrializada se caracteriza por ser una sociedad compuesta por organizaciones que constituyen sistemas abiertos.
 
     .tarjeta-avatar-b.col-xl-8.mx-xl-auto.mb-5
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema2/img-14.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema2/img-14.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") <b>Un sistema es:</b> un conjunto de elementos dinámicamente relacionados que desarrollan una actividad en su entorno en busca del logro de determinado objetivo o propósito que nos conduce al éxito.
@@ -231,7 +233,7 @@
       style="background-color: #E6FAF9"
     )
       .d-flex.flex-wrap.align-items-start.position-relative
-        img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-15.svg" style="max-width: 400px;" data-aos="fade-right")
+        img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema2/img-15.svg" style="max-width: 400px;" data-aos="fade-right" alt="Imagen decorativa")
         .col-md-7.col-lg-8.ps-md-4(data-aos="fade-left")
           ul
             li.d-flex.align-items-start
@@ -253,9 +255,9 @@
               img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
               p <b>Retroalimentación</b>
                 br
-                | Constituye parte de todo el proceso desde el inicio hasta su fin logrando su objetivo propuesto.
+                | Constituye parte de todo el proceso desde el inicio hasta su fin, logrando su objetivo propuesto.
 
-    p.mb-5 La función productiva de toda empresa, se reconoce como un proceso de transformación para obtener un producto final, es decir, que un sistema productivo es un proceso en el cual se de manejo a los recursos que entran, se logra obtener una salida, la buena marcha de un sistema se mide por las nociones de eficiencia y de productividad, como la relación entre entradas y salidas. Esto se refleja en la siguiente figura:
+    p.mb-5 La función productiva de toda empresa, se reconoce como un proceso de transformación para obtener un producto final, es decir, que un sistema productivo es un proceso en el cual sé dé manejo a los recursos que entran, se logra obtener una salida, la buena marcha de un sistema se mide por las nociones de eficiencia y de productividad, como la relación entre entradas y salidas. Esto se refleja en la siguiente figura:
 
     .container-100.py-2(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
@@ -265,7 +267,7 @@
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 3.
           span Modelo del sistema productivo como proceso de transformación
-        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-16.svg" style="max-width: 821px;" data-aos="fade-left")
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-16.svg" style="max-width: 821px;" data-aos="fade-left" alt="Imagen que contiene el modelo del sistema productivo como proceso de transformación, el cual se da así: Entrada Producción - Salidas - Servicios y productos - Retroalimentación - Energía, materiales, servicios y protocolos, mano de obra, capital, información")
 
     p Como actividad logística dentro del sistema del proceso de transformación tenemos que proveer los conocimientos necesarios para apoyar la competitividad del recurso humano a cargo de procesos que impliquen la optimización de los recursos durante la producción, distribución y comercialización.
 
@@ -286,13 +288,14 @@
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
         p.mb-0 El manual de procesos, es también conocido como manual de procedimientos, el cual permite que una organización funcione de manera correcta, debido a que es ahí donde se establecen los estamentos, las políticas, normas, reglamentos, sanciones y todos aquellos lineamientos que se tienen en cuenta para una adecuada gestión de la organización. Dentro del manual de procesos y procedimientos logísticos se establecen las operaciones y actividades que debe realizar el personal de operación logística en las organizaciones.
     
+    p.mb-5 Se considera que la estructura de un proceso logístico debe tener muy claramente desarrolladas las cinco operaciones: 
     .d-flex.flex-wrap.mb-5.mb-lg-4
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-18.svg" style="max-width: 295px;" data-aos="fade-left")
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema2/img-18.svg" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       TabsA.color-acento-contenido.col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
         .tarjeta.p-4(titulo="Compras" style="background-color: #E6FAF9")
           p.mb-0 Hace parte de la etapa de aprovisionamiento en la que se determina cuáles son los materiales, materias primas e insumos que se necesiten en el proceso de transformación de productos terminados para luego venderlos entre los clientes.
         .tarjeta.p-4(titulo="Servicio al cliente" style="background-color: #E6FAF9")
-          p.mb-0 Es una herramienta muy importante del marketing, relacionado con un conjunto de estrategias que la empresa diseña para el logro de la satisfacción de los clientes ante la competencia, cumpliendo las expectativas de los clientes internos y externos. Dentro de la cadena de suministro se relaciona como el proceso que abarca todo el ciclo de la orden desde su inicio hasta su fin.
+          p.mb-0 Es una herramienta muy importante del <em>marketing</em>, relacionado con un conjunto de estrategias que la empresa diseña para el logro de la satisfacción de los clientes ante la competencia, cumpliendo las expectativas de los clientes internos y externos. Dentro de la cadena de suministro se relaciona como el proceso que abarca todo el ciclo de la orden desde su inicio hasta su fin.
         .tarjeta.p-4(titulo="Gestión de inventarios" style="background-color: #E6FAF9")
           p.mb-0 Es otro proceso que podemos destacar dentro de la logística y está relacionado con el control y manejo de los productos.
         .tarjeta.p-4(titulo="Almacenamiento" style="background-color: #E6FAF9")
@@ -310,7 +313,7 @@
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
           h5 Figura 4.
           span Modelo sistema de procedimiento logístico
-        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-19.svg" style="max-width: 610px;" data-aos="fade-left")
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-19.svg" style="max-width: 610px;" data-aos="fade-left" alt="Imagen del modelo sistema de procedimiento logístico, el cual se da así: Compras - Servicio al cliente - Gestor de inventarios - Almacenamiento - Trnasporte")
 
     Separador 
 
@@ -327,15 +330,15 @@
             h3.text-center ¿Qué es la Seguridad y <br>Salud en el Trabajo (SST)?
             p Consiste en el desarrollo de un proceso lógico y por etapas, basado en la mejora continua, con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y salud en el trabajo de los empleados.
 
-            p La Seguridad y Salud en el Trabajo es la disciplina que trata la prevención de lecciones y enfermedades causadas por las lecciones de trabajo (guía técnica de seguridad y salud en el trabajo para las mipymes).
-            img.img-float-left(src='@/assets/curso/temas/tema2/img-20.svg' style="max-width: 115px")
+            p La Seguridad y Salud en el Trabajo es la disciplina que trata la prevención de lecciones y enfermedades causadas por las lecciones de trabajo (guía técnica de seguridad y salud en el trabajo para las <em>mipymes</em>).
+            img.img-float-left(src='@/assets/curso/temas/tema2/img-20.svg' style="max-width: 115px" alt="Imagen decorativa")
 
         .position-relative.col-md.tarjeta.color-acento-botones.p-4.p-xl-5(style="background-color: #D8E4FD")
           .col-lg-10.col-xl-11.mx-auto.pe-lg-3
             h3.text-center ¿En qué consiste el sistema de gestión <br>de la Seguridad y Salud en el Trabajo?
             p Consiste en el desarrollo de un proceso lógico, basado en la mejora continua con el objetivo de anticipar, reconocer, evaluar los riesgos que puedan afectar la Seguridad y Salud en el Trabajo.
-            img.mx-auto(src='@/assets/curso/temas/tema2/img-22.svg' style="max-width: 379px")
-            img.img-float-right(src='@/assets/curso/temas/tema2/img-21.svg' style="max-width: 115px")
+            img.mx-auto(src='@/assets/curso/temas/tema2/img-22.svg' style="max-width: 379px" alt="Imagen decorativa")
+            img.img-float-right(src='@/assets/curso/temas/tema2/img-21.svg' style="max-width: 115px" alt="Imagen decorativa")
     
     p.mb-5.text-center Siendo un sistema de gestión sus principios deben estar enfocados en el ciclo PHVA (Planear, Hacer Verificar y Actuar).
 
@@ -345,14 +348,14 @@
     )
       .col-lg-10.col-xl-8.mx-auto
         .titulo-sexto.color-acento-botones(data-aos="fade-right")
-          h5 Figura 4.
-          span Modelo sistema de procedimiento logístico
-        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-23.svg" style="max-width: 820px;" data-aos="fade-left")
+          h5 Figura 5.
+          span Modelo ciclo PHVA
+        img.mb-4.mx-auto(src="@/assets/curso/temas/tema2/img-23.svg" style="max-width: 820px;" data-aos="fade-left" alt="Imagen del modelo ciclo PHVA, el cual se da de la siguiente manera: Actuar: ¿Qué aprendimos? ¿Qué errores no se pueden repetir? ¿Qué aciertos se pueden tomar? ¿Qué podemos mejorar? Planear: ¿Qué se hará?, ¿Cómo?, ¿Cuándo?, ¿Dónde? ¿Quién lo hará?, ¿Con quién?, ¿Para qué? ¿Cómo se evaluará lo realizado?, ¿Con qué datos?, ¿Para qué evaluar? Verificar: ¿Se hizo lo planeado? ¿Se lograron los resultados? ¿Qué mecanismos se tienen para verificar el SG SST? ¿Qué impacto se logró en cuanto a la accidentalidad y enfermedades laborales? Hacer: Ejecutar lo planeado Recolectar todos los datos necesarios Documentar todo lo realizado y lo que no se pudo realizar")
 
     .tarjeta.color-primario.p-3.col-lg-10.mx-auto(style="background: linear-gradient(-90deg, rgba(58,180,177,1) 0%, rgba(26,15,145,1) 100%);")
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
-          img(src="@/assets/curso/temas/tema2/img-24.svg")
+          img(src="@/assets/curso/temas/tema2/img-24.svg" alt="Imagen decorativa")
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0.texto-blanco

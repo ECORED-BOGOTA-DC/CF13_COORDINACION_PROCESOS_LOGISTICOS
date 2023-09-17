@@ -5,9 +5,9 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Titulo de primer nivel
+      h1 Conceptos generales gestión del talento humano
     
-    img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-right")
+    img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-right" alt="Imagen decorativa")
     .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-5
       p.mb-0 Para comprender la importancia del talento humano y todas las acciones logísticas permeadas por este factor que resulta fundamental en el desarrollo de todos los procesos organizacionales, primero es necesario conocer y comprender los conceptos que se presentan a continuación:
     
@@ -21,7 +21,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-2.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Las organizaciones reconocen la gran importancia de la gestión de conocimiento, ya que se perfila como una nueva forma de manejar desde la gerencia los procesos organizacionales. Direccionados en su objetivo fundamental el cual radica en la identificación, la captura, el desarrollo, la distribución y la retención del conocimiento organizacional, teniendo su origen en las personas que forman parte de la organización, sean clientes internos o externos.
+        p.mb-0 Las organizaciones reconocen la gran importancia de la gestión de conocimiento, ya que se perfila como una nueva forma de manejar desde la gerencia los procesos organizacionales. Direccionados en su objetivo fundamental, el cual radica en la identificación, la captura, el desarrollo, la distribución y la retención del conocimiento organizacional, teniendo su origen en las personas que forman parte de la organización, sean clientes internos o externos.
 
     .d-flex.flex-wrap.mb-5.mb-lg-4
       .col-lg-8.col-xl-9.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
@@ -36,17 +36,17 @@
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
             | La aplicación de conocimientos de forma efectiva en beneficio lógico.
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 295px;" data-aos="fade-left")
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-3.svg" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
     
     .mx-auto.col-lg-10.mb-5
       .titulo-sexto.color-acento-botones(data-aos="fade-right")
         h5 Figura 1.
         span Estructura del modelo de desarrollo de la gestión del conocimiento
-      img.mx-auto(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 1031px;" data-aos="fade-left")
+      img.mx-auto(src="@/assets/curso/temas/tema1/img-4.svg" style="max-width: 1031px;" data-aos="fade-left" alt="Imagen que contiene un esquema que relaciona los aspectos de la gestión del conocimiento en las organizaciones, los cuales son: Barras de integración de conocimiento: Diversidad del conocimiento. Dispersión del conocimiento. Complejidad del conocimiento. Transferencia de conocimiento: Elementos del proceso: Consecución y apropiación del conocimiento. Tratamiento y resolución de problemas. Análisis e implementación de posibles soluciones. Prototipado y experimentación. Proceso de transferencia: Integrar nuevos conocimientos. Localización y adaptación del conocimiento. Diseño de nuevos productos, servicios y procesos. Acciones de la gestión del conocimiento: Entender las necesidades y oportunidades del conocimiento. Construcción del conocimiento relevante para el negocio. Organizar y distribuir el conocimiento relevante para la organización. Creación de condiciones para aplicación del conocimiento en las organizaciones. Explotación del conocimiento en la empresa.")
 
     .tarjeta-avatar-b.col-xl-11.me-xl-auto
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema1/img-5.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema1/img-5.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") De acuerdo con Nagales (2007), la gestión del conocimiento es un proceso de logística caracterizado por su lógica, orden y organización; también es sistemático para producir, transferir y aplicar en situaciones concretas una combinación armónica de saberes, experiencias, valores, información contextual y apreciaciones expertas que proporcionan un marco para su evaluación e incorporación de nuevas experiencias e información.
@@ -58,19 +58,19 @@
     
     .d-flex.flex-wrap.mb-5.mb-lg-4
       .col-lg-8.col-xl-9.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
-        p Cuando hablamos del capital humano globalizado, nos referimos al valor económico de las habilidades personales técnicas y profesionales que cada individuo posee para el desarrollo de las diferentes actividades o funciones asignadas por la organización.
+        p Cuando hablamos del capital humano globalizado, nos referimos al valor económico de las habilidades personales, técnicas y profesionales que cada individuo posee para el desarrollo de las diferentes actividades o funciones asignadas por la organización.
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
-          p.mb-0 Si al capital humano se le añade el capital financiero se logra obtener el desarrollo de la persona y mejora de sus actividades.
+          p.mb-0 Si al capital humano se le añade el capital financiero, se logra obtener el desarrollo de la persona y mejora de sus actividades.
         p El capital humano es reconocido en la industria global como un término manejado en diferentes teorías económicas del crecimiento, donde se puede definir como una de las capacidades, experiencias, destrezas y habilidades que poseemos los empleados de una organización, la cual permite solucionar o satisfacer las necesidades y problemas de nuestros clientes internos y externos dentro del ambiente organizacional.
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-6.png" style="max-width: 295px;" data-aos="fade-left")
-    p.mb-5 En el mundo moderno global se reconoce que el hombre es un ser social que cuenta con habilidades a desarrollar en el ambiente laboral o vida social en la que se encuentre. El hombre siempre se ha caracterizado por permanecer gran parte de su vida en la empresa ya que gran parte de su tiempo lo dedica siempre a ella para dar lo mejor, logrando satisfacer una de sus necesidades personales o profesionales o para crecer como un ser humano íntegro con calidad.
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-6.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
+    p.mb-5 En el mundo moderno global se reconoce que el hombre es un ser social que cuenta con habilidades a desarrollar en el ambiente laboral o vida social en la que se encuentre. El hombre siempre se ha caracterizado por permanecer gran parte de su vida en la empresa, ya que gran parte de su tiempo lo dedica siempre a ella para dar lo mejor, logrando satisfacer una de sus necesidades personales o profesionales o para crecer como un ser humano íntegro con calidad.
 
     p.text-center.fw-bold El capital humano de un individuo se calcula como el valor actual de todos los beneficios.
 
     .col-xl-9.mx-auto.mb-5
       .tarjeta-avatar-b.tarjeta-avatar-b-1.col-xl-11.me-auto
         .tarjeta-avatar-b__img
-          img.mx-auto(src='@/assets/curso/temas/tema1/img-7.svg' style="max-width: 88px")
+          img.mx-auto(src='@/assets/curso/temas/tema1/img-7.svg' style="max-width: 88px" alt="Imagen decorativa")
         .tarjeta.tarjeta-e-1.tarjeta--azul.ps-lg-5.d-flex.align-items-center(style="background-color: #F6F6F6; box-shadow: 0 2px 4px 4px #00000010")
           .p-4.py-md-3
             h3.mb-0.order-2.order-md-1.col-md.fw-bold(data-aos="fade-right") <em>Capital humano= conjunto de habilidades + conocimiento + competencias</em>
@@ -86,35 +86,35 @@
         .col-xl.px-md-2.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 01
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-1.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-1.svg" style="max-width: 152px" alt="Imagen decorativa Capital emitido")
             h5.mb-0.text-center Capital emitido:
             p.mb-0.text-center acciones
         
         .col-xl.px-md-2.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 02
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-2.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-2.svg" style="max-width: 152px" alt="Imagen decorativa Capital fijo")
             h5.mb-0.text-center Capital fijo:
             p.mb-0.text-center bienes
         
         .col-xl.px-md-2.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 03
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-3.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-3.svg" style="max-width: 152px" alt="Imagen decorativa Capital financiero")
             h5.mb-0.text-center Capital financiero:
             p.mb-0.text-center recursos monetarios
         
         .col-xl.px-md-2.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 04
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-4.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-4.svg" style="max-width: 152px" alt="Imagen decorativa Capital social")
             h5.mb-0.text-center Capital social:
             p.mb-0.text-center aportes de los socios 
         
         .col-xl.px-md-2.d-flex
           .tarjeta-edit-1.w-100.me-md-0
             span.number-tj 05
-            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-5.svg" style="max-width: 152px")
+            img.mx-auto.mb-4(src="@/assets/curso/temas/tema1/tj-5.svg" style="max-width: 152px" alt="Imagen decorativa Capital humano")
             h5.mb-0.text-center Capital humano:
             p.mb-0.text-center valor agregado  
 
@@ -128,7 +128,7 @@
           .crd_hover_txt.w-100(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema1/tjs-1.jpg")
+                img(src="@/assets/curso/temas/tema1/tjs-1.jpg" alt="Imagen decorativa Contar que se trabaja con seres humanos")
             .crd_hover_txt--body(style="background-color: #91B3FAF0")
               h5.mb-3.text-center Contar que se trabaja con seres humanos
               p.mb-0 Son personas dotadas de personalidad con información relevante y conocimientos, habilidades, capacidades que les permiten vivir en una sociedad.
@@ -137,7 +137,7 @@
           .crd_hover_txt.w-100(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema1/tjs-2.jpg")
+                img(src="@/assets/curso/temas/tema1/tjs-2.jpg" alt="Imagen decorativa Auto-activos organizacionalmente")
             .crd_hover_txt--body(style="background-color: #57DBD8F0")
               h5.mb-3.text-center Auto-activos organizacionalmente
               p.mb-0 Las personas se convierten en impulso según sus estados y dinamizan cualquier organización. 
@@ -146,21 +146,21 @@
           .crd_hover_txt.w-100(data-aos="flip-left")
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema1/tjs-3.jpg")
+                img(src="@/assets/curso/temas/tema1/tjs-3.jpg" alt="Imagen decorativa Socios de la organización")
             .crd_hover_txt--body(style="background-color: #91B3FAF0")
               h5.mb-3.text-center Socios de la organización
               p.mb-0 Son individuos que invierten en las organizaciones espacios de trabajo con esfuerzo, responsabilidad, compromiso, empeño y riesgo, entre otros, con la intención de recibir un valor agregado a cambio.
     
-    .tarjeta-avatar-b.col-xl-8.mx-xl-auto
+    .tarjeta-avatar-b.col-xl-8.mx-xl-auto.mb-5
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema1/img-8.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema1/img-8.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") A cambio de los esfuerzos, las personas buscan recibir incentivos que se pueden ver representados en salarios, incentivos emocionales, bonos, recursos financieros, crecimiento profesional, capacitación o estudio, entre otros. 
     p.fw-bold.text-center.mb-5 También se cuenta con las personas como recurso y como socio como se ve a continuación:
 
     .d-flex.flex-wrap.align-items-start.mb-5.position-relative
-      img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 400px;" data-aos="fade-right")
+      img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 400px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.ps-md-4(data-aos="fade-left")
         LineaTiempoD.color-secundario.mb-5(data-aos="fade-right")
           div(numero="1" titulo="Características de las personas como recurso humano")
@@ -234,7 +234,7 @@
       h2#t_1_3 1.3 Planeación estratégica del talento humano 
 
     .d-flex.flex-wrap.mb-5.mb-lg-4
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-10.png" style="max-width: 295px;" data-aos="fade-left")
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-10.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
           p.mb-0 Cuando hablamos de la planeación estratégica del talento humano, nos referimos a la administración y direccionamiento del recurso humano, en este caso cada organización tiene dentro de su estructura organizacional el departamento de talento humano, el cual, se encarga de organizar y planificar recursos y funciones, el reclutamiento del recurso humano de la empresa, la selección de personal, la promoción profesional dentro de la empresa mediante planes de carrera, los planes de formación, diseñar y aplicar la evaluación del desempeño de los funcionarios y cuidar el clima organizacional, todo proyectado al funcionamiento eficiente de la estructura organizacional.
@@ -246,7 +246,7 @@
           .col-lg-8.pe-lg-4
             p Hace referencia “al conjunto de políticas y prácticas necesarias para dirigir cargos gerenciales relacionados con personas o recursos; colocando en práctica los diferentes procesos de reclutamiento, recompensas y evaluación de desempeño” (Chiavenato, 2007).
             p.mb-0 La tarea básica de la Gestión del Talento Humano es fortalecer y dotar al Capital Humano de actitudes y conocimientos, para el logro del éxito, funcionario motivado, capacitado e incentivado por sus logros obtenidos en el desarrollo de sus actividades, es una persona que se entrega y trabajo con calidad en busca de superarse y satisfacer sus necesidades tanto personales como las de la organización.
-          img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 315px")
+          img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 315px" alt="Imagen decorativa")
       .d-flex.flex-wrap(titulo="Planificación estratégica del talento humano")
         .col-xl-11.mx-auto
           p Se refiere al comportamiento de la organización.
@@ -272,7 +272,7 @@
             p.mb-1 <b style="color: #1A0F91">4.</b> Determinar la política de recursos humanos
             p.mb-1 <b style="color: #1A0F91">5.</b> Fijar las políticas operativas
             p.mb-1 <b style="color: #1A0F91">6.</b> Identificar las necesidades de plantilla
-          img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 315px")
+          img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-12.png" style="max-width: 315px" alt="Imagen decorativa")
 
     .d-flex.mb-4
       h3.titulo-h3 Objetivos de la planificación estratégica
@@ -310,15 +310,15 @@
           p.text-small.mb-0 Contribuir con productividad de la empresa al máximo.
 
     .d-flex.flex-wrap.mb-5
-      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-13.png" style="max-width: 295px;" data-aos="fade-left")
+      img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-13.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
           p.mb-0 La planeación estratégica de recursos humanos se puede identificar como el proceso que surge del análisis de las necesidades reales de la empresa en su entorno interno referente al recurso humano que debe estar disponible con cada movimiento de la empresa para mantenerla en un buen entorno interno y externo.
         p.mb-0 La planeación estratégica del talento humano se relaciona que es un sistema que permite definir estrategias y métodos que construyen al cumplimiento diario de los objetivos y metas establecidas por la organización permitiendo el éxito del desarrollo organizacional y la articulación y objetividad en los programas, planes y proyectos.
     
-    .tarjeta-avatar-b.col-xl-11.mx-xl-auto
+    .tarjeta-avatar-b.col-xl-11.mx-xl-auto.mb-5
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema1/img-14.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema1/img-14.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Los objetivos estratégicos deben suponer un paso intermedio entre la misión y visión de la organización. Los cuales deben ser definidos en forma clara y precisa y comprensible, las cuales deben expresar las metas últimas y más importantes que permitan a la organización orientarse hacia su misión y visión corporativa.
@@ -327,11 +327,11 @@
 
     TabsB.color-acento-contenido.mb-5
       .p-4.py-4.py-md-5(
-        titulo="Exportación"
+        titulo="Misión"
         :icono="require('@/assets/curso/temas/tema1/img-15.svg')"
         style="background-color: #E6FAF9"
       )
-        p Toda organización tiene una misión que cumplir, se reconoce que la misión representa la razón de existencia de una empresa que es la finalidad u objetivo que le condujo a la creación de la organización. La misión debe ser objetiva, clara, alcanzable y, sobre todo… inspiradora.
+        p Toda organización tiene una misión que cumplir, se reconoce que la misión representa la razón de existencia de una empresa, que es la finalidad u objetivo que le condujo a la creación de la organización. La misión debe ser objetiva, clara, alcanzable y, sobre todo… inspiradora.
         p Para el diseño y elaboración de la misión debemos intentar resolver las siguientes preguntas:
         .d-flex.flex-wrap.align-items-center
           .col-lg-7.order-2.order-lg-1.pe-lg-4
@@ -364,16 +364,16 @@
                 img.me-2.pt-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
                 | ¿Cuál es la ventaja competitiva que ofrece la empresa?
           .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
-            img.mx-auto(src="@/assets/curso/temas/tema1/img-17.svg" data-aos="fade-right")
+            img.mx-auto(src="@/assets/curso/temas/tema1/img-17.svg" data-aos="fade-right" alt="Imagen decorativa")
       .p-4.py-4.py-md-5.d-flex.flex-wrap.align-items-center(
-        titulo="Exportación"
+        titulo="Visión"
         :icono="require('@/assets/curso/temas/tema1/img-16.svg')"
         style="background-color: #E6FAF9"
       )
         .col-lg-7.order-2.order-lg-1.pe-lg-4
           p La visión de una empresa es una meta de plazo amplio donde se establece la inspiración sobre los logros de la organización y lo que se proyecta a futuro, así la visión siempre define la ruta a seguir, tanto para el personal de directivos y los empleados de la misma. Para redactarla es necesario reflexionar sobre el estado actual de la empresa y hasta donde se quiere llegar. La visión puede escribirse en una frase o un párrafo, debe ser es que sea clara, concreta y concisa.
         .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
-          img.mx-auto(src="@/assets/curso/temas/tema1/img-18.svg" data-aos="fade-right")
+          img.mx-auto(src="@/assets/curso/temas/tema1/img-18.svg" data-aos="fade-right" alt="Imagen decorativa")
 
     .mx-auto.col-lg-10.mb-5
       .titulo-sexto.color-acento-botones(data-aos="fade-right")
@@ -404,7 +404,7 @@
     
     .d-flex.flex-wrap.mb-5
       .col-xl-7.col-lg-6.pe-lg-4.order-2.order-lg-1
-        p Para alcanzar los objetivos las empresas administran una serie de recursos, que incluyen no solo dinero o materiales si no también el talento de las personas que debe ser gestionado para maximizar su valor, para esto debemos asegurarnos que las personas dentro de la empresa: 
+        p Para alcanzar los objetivos las empresas administran una serie de recursos, que incluyen no solo dinero o materiales, sino también el talento de las personas que debe ser gestionado para maximizar su valor, para esto debemos asegurarnos que las personas dentro de la empresa: 
         ul.lista-ul--separador
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
@@ -418,7 +418,7 @@
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
             | Permanezcan en la organización.
-      img.col-xl-5.col-lg-6.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-19.png" style="max-width: 505px")
+      img.col-xl-5.col-lg-6.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema1/img-19.png" style="max-width: 505px" alt="Imagen decorativa")
 
     p.mb-5 Para que las personas hagan lo que deben hacer, debes tener una buena organización del trabajo en puestos específicos que se relacionen claramente y faciliten el logro de los objetivos, todas las actividades de la empresa deben ser organizadas y descritas en puestos de trabajo y estar contempladas en una estructura organizacional que se representa gráficamente en un organigrama; este organigrama te permitirá: 
 
@@ -443,7 +443,7 @@
 
     .tarjeta-avatar-b.col-xl-8.mx-xl-auto.mb-5
       .tarjeta-avatar-b__img
-        img.mx-auto(src='@/assets/curso/temas/tema1/img-20.svg' style="max-width: 104px")
+        img.mx-auto(src='@/assets/curso/temas/tema1/img-20.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") Tanto el organigrama como la descripción de cada puesto deben estar por escrito para evitar dudas o duplicar funciones además deben ser comunicados abiertamente.
@@ -473,7 +473,7 @@
           .row.justify-content-center.mb-4
             .col-6
               figure
-                img.mx-auto(src='@/assets/curso/temas/tema1/img-22.svg' style="max-width: 152px")
+                img.mx-auto(src='@/assets/curso/temas/tema1/img-22.svg' style="max-width: 152px" alt="Imagen decorativa")
           h3.text-center Funciones
           ul
             li.d-flex.align-items-start
@@ -496,7 +496,7 @@
           .row.justify-content-center.mb-4
             .col-6
               figure
-                img.mx-auto(src='@/assets/curso/temas/tema1/img-23.svg' style="max-width: 152px")
+                img.mx-auto(src='@/assets/curso/temas/tema1/img-23.svg' style="max-width: 152px" alt="Imagen decorativa")
           h3.text-center Responsabilidades
           ul
             li.d-flex.align-items-start
