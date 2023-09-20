@@ -21,11 +21,11 @@
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-left") El objetivo principal de la evaluación de desempeño en las empresas es medir el rendimiento y comportamiento del trabajador en su puesto de trabajo.
     
-    .d-flex.flex-wrap.mb-5.mb-lg-4
+    .d-flex.flex-wrap.mb-4
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema4/img-3.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4
         p(data-aos="fade-left") Es recomendable que en la evaluación de desempeño se debe incluir los siguientes ítems importantes para evaluar el desempeño de los empleados: 
-        ul.lista-ul--separador
+        ul.lista-ul--separador.mb-0
           li.pb-2.mb-2(data-aos="fade-left")
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
             | Calidad y precisión del trabajo.
@@ -126,7 +126,6 @@
       p El modelo de las evaluaciones no es genérico, pero en la gráfica expuesta se puede ver un paso a paso para ejercer esa acción de manera clara sin olvidar la realimentación del empleado; este proceso se puede implementar como un protocolo de evaluación, es importante entender que la evaluación siempre debe realimentar a todas las partes del proceso.
   
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_4_2 4.2 Evaluación del desempeño
     
@@ -266,7 +265,7 @@
 
     p.fw-bold.text-center(data-aos="fade-right") Estos métodos se integran con 5 pasos por lo general y son los siguientes:
 
-    .d-flex.flex-wrap.mb-5.mb-lg-4
+    .d-flex.flex-wrap.mb-4
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema4/img-19.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
         TabsA.color-acento-contenido
@@ -331,43 +330,43 @@
         img.col-md-5.mx-auto.mb-4(src="@/assets/curso/temas/tema4/img-21.svg" style="max-width: 400px;" data-aos="fade-right" alt="Imagen decorativa")
         .col-md-7.ps-md-4
           ul
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 1.
               | ¿Cuál es la necesidad?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 2.
               | ¿Dónde fue determinada la necesidad?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 3.
               | ¿Ocurre en otra área o departamento?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 4.
               | ¿Cuál es su causa?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 5.
               | ¿Es parte de una necesidad mayor?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 6.
               | ¿Cómo resolver individualmente o en conjunto?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 7.
               | ¿Es necesario tomar una medida antes de resolverla?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 8.
               | ¿La necesidad es inmediata? ¿Cuál es su prioridad con relación con las demás?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 9.
               | ¿La necesidad es permanente o temporal?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 10.
               | ¿Cuántas personas y cuántos servicios serán atendidos?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 11.
               | ¿Cuánto tiempo tenemos disponible para la capacitación?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 12.
               | ¿Cuál es el costo probable de la capacitación?
-            li(data-aos="fade-left")
+            li(style="display: flex" data-aos="fade-left")
               span.pe-2.fw-bold(style="color: #FE7062") 13.
               | ¿Quién realizará la capacitación?
 

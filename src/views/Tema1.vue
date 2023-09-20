@@ -8,11 +8,10 @@
       h1 Conceptos generales gestión del talento humano
     
     img.mb-4.mb-md-auto(src="@/assets/curso/temas/tema1/img-1.png" data-aos="fade-right" alt="Imagen decorativa")
-    .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-5(data-aos="fade-right")
+    .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-4(data-aos="fade-right")
       p.mb-0 Para comprender la importancia del talento humano y todas las acciones logísticas permeadas por este factor que resulta fundamental en el desarrollo de todos los procesos organizacionales, primero es necesario conocer y comprender los conceptos que se presentan a continuación:
     
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_1_1 1.1 Gestión del conocimiento
     
@@ -52,19 +51,18 @@
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") De acuerdo con Nagales (2007), la gestión del conocimiento es un proceso de logística caracterizado por su lógica, orden y organización; también es sistemático para producir, transferir y aplicar en situaciones concretas una combinación armónica de saberes, experiencias, valores, información contextual y apreciaciones expertas que proporcionan un marco para su evaluación e incorporación de nuevas experiencias e información.
 
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_1_2 1.2 Capital humano 
     
-    .d-flex.flex-wrap.mb-5.mb-lg-4
+    .d-flex.flex-wrap.mb-4.mb-lg-5
       .col-lg-8.col-xl-9.pe-lg-4.order-2.order-lg-1
         p(data-aos="fade-right") Cuando hablamos del capital humano globalizado, nos referimos al valor económico de las habilidades personales, técnicas y profesionales que cada individuo posee para el desarrollo de las diferentes actividades o funciones asignadas por la organización.
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
           p.mb-0 Si al capital humano se le añade el capital financiero, se logra obtener el desarrollo de la persona y mejora de sus actividades.
         p(data-aos="fade-right") El capital humano es reconocido en la industria global como un término manejado en diferentes teorías económicas del crecimiento, donde se puede definir como una de las capacidades, experiencias, destrezas y habilidades que poseemos los empleados de una organización, la cual permite solucionar o satisfacer las necesidades y problemas de nuestros clientes internos y externos dentro del ambiente organizacional.
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema1/img-6.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
+    
     p.mb-5(data-aos="fade-right") En el mundo moderno global se reconoce que el hombre es un ser social que cuenta con habilidades a desarrollar en el ambiente laboral o vida social en la que se encuentre. El hombre siempre se ha caracterizado por permanecer gran parte de su vida en la empresa, ya que gran parte de su tiempo lo dedica siempre a ella para dar lo mejor, logrando satisfacer una de sus necesidades personales o profesionales o para crecer como un ser humano íntegro con calidad.
-
     p.text-center.fw-bold(data-aos="fade-right") El capital humano de un individuo se calcula como el valor actual de todos los beneficios.
 
     .col-xl-9.mx-auto.mb-5
@@ -123,7 +121,7 @@
     .container-100.py-5.mb-5(
       style="background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(233,255,254,1) 50%, rgba(255,255,255,1) 100%);"
     )
-      .row.justify-content-center.mb-4
+      .row.justify-content-center
         .col-lg-4.col-md-6.col-11.mb-4
           .crd_hover_txt.w-100(data-aos="flip-right")
             .crd_hover_txt--img
@@ -142,7 +140,7 @@
               h5.mb-3.text-center Auto-activos organizacionalmente
               p.mb-0 Las personas se convierten en impulso según sus estados y dinamizan cualquier organización. 
 
-        .col-lg-4.col-md-6.col-11.mb-4
+        .col-lg-4.col-md-6.col-11
           .crd_hover_txt.w-100(data-aos="flip-left")
             .crd_hover_txt--img
               figure
@@ -160,77 +158,76 @@
     
     p.fw-bold.text-center.mb-5(data-aos="fade-right") También se cuenta con las personas como recurso y como socio como se ve a continuación:
 
-    .d-flex.flex-wrap.align-items-start.mb-5.position-relative
+    .d-flex.flex-wrap.align-items-start.mb-4.position-relative
       img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 400px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-md-7.col-lg-8.ps-md-4(data-aos="fade-left")
         LineaTiempoD.color-secundario.mb-5(data-aos="zoom-in")
           div(numero="1" titulo="Características de las personas como recurso humano")
-            ul
+            ul.lista-ul--color
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Empleados pendientes solo de su función.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Cumplidores de horario rígido y no negociable.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Ejecutores de órdenes expresas.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Subordinación al punto de dependencia de los jefes o líderes.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Fieles a las organizaciones.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Requieren jefes.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Se especializan en un punto de trabajo
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Se consideran mano de obra
           div(numero="2" titulo="Características de las personas como socios")
-            ul
+            ul.lista-ul--color
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Son colaboradores.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Formadores de equipos.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Los incentivos al igual que las metas son negociadas.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Se preocupan por los datos y resultados.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Buena atención.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Buscan la satisfacción del cliente.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Están vinculados a la misión y a la visión de la empresa.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Interdependencia entre colegas y equipo.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Son propositivos.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Enfatizan en la ética y la responsabilidad.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Enfatizan en el conocimiento.
               li
-                i.fas.fa-angle-right.pe-2(style="color: #1A0F91")
+                i.fas.fa-angle-right(style="color: #1A0F91")
                 | Saben que representan inteligencia y talento.
 
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_1_3 1.3 Planeación estratégica del talento humano 
 
@@ -244,7 +241,7 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta-edit-acordion" data-aos="zoom-in")
       .d-flex.flex-wrap(titulo="Gestión del talento humano")
         .d-flex.flex-wrap.col-xl-11.mx-auto
-          .col-lg-8.pe-lg-4
+          .col-lg-8.pe-lg-4.mb-lg-0.mb-4
             p Hace referencia “al conjunto de políticas y prácticas necesarias para dirigir cargos gerenciales relacionados con personas o recursos; colocando en práctica los diferentes procesos de reclutamiento, recompensas y evaluación de desempeño” (Chiavenato, 2007).
             p.mb-0 La tarea básica de la Gestión del Talento Humano es fortalecer y dotar al Capital Humano de actitudes y conocimientos, para el logro del éxito, funcionario motivado, capacitado e incentivado por sus logros obtenidos en el desarrollo de sus actividades, es una persona que se entrega y trabajo con calidad en busca de superarse y satisfacer sus necesidades tanto personales como las de la organización.
           img.col-lg-4.mx-auto.mb-4.mb-lg-auto.order-1.order-xl-2(src="@/assets/curso/temas/tema1/img-11.png" style="max-width: 315px" alt="Imagen decorativa")
@@ -260,7 +257,7 @@
           p.mb-0 La planeación estratégica de recursos humanos es la fuerza con la que se nivela el personal, más exactamente su flujo porque ya se cuenta con la experiencia de que la alta rotación no es buena por varios motivos, con cada despido se va una parte de la empresa, ninguna misión empresarial apunta al rápido despido del personal, también se busca la posibilidad de facilitar la continuidad de los procesos a pesar de las personas que van de ingreso y de salida.
       .d-flex.flex-wrap(titulo="Bases de la planificación del capital humano")
         .d-flex.flex-wrap.col-xl-11.mx-auto
-          .col-lg-8.pe-lg-4
+          .col-lg-8.pe-lg-4.mb-lg-0.mb-4
             p.mb-4 <b style="color: #1A0F91">La demanda de trabajo:</b> es el número de candidatos posibles a postular a un puesto de trabajo.
               br
               |<b style="color: #1A0F91">La oferta de trabajo:</b> las empresas que poseen las vacantes, que deben ser llenadas por los colaboradores.
@@ -376,7 +373,7 @@
         .col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto
           img.mx-auto(src="@/assets/curso/temas/tema1/img-18.svg" data-aos="fade-right" alt="Imagen decorativa")
 
-    .mx-auto.col-lg-10.mb-5
+    .mx-auto.col-lg-10.mb-4
       .titulo-sexto.color-acento-botones(data-aos="fade-right")
         h5 Tabla 1.
         span Misión y visión
@@ -399,7 +396,6 @@
               td Es clara, gráfica y global.
     
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_1_4 1.4 Importancia del talento humano en las organizaciones
     
@@ -452,7 +448,6 @@
     p(data-aos="fade-right") Sin duda uno de los recursos más importantes con los que cuenta en todo momento cualquier tipo de empresa son las personas que día a día entregan gran parte de su vida a ellas para el logro del éxito tanto personal como empresarial, la necesidad de gestionar este recurso tan valioso ha hecho que las empresas dediquen un área a su gestión y dirección, la denominada y llamada Gestión del Talento Humano.
 
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_1_5 1.5 Responsabilidad del talento humano en las organizaciones
     

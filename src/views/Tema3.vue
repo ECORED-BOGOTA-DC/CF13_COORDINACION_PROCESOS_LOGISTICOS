@@ -11,10 +11,9 @@
     .tarjeta.tarjeta-edit-2.col-xl-10.mx-auto.mb-5
       p.mb-0 Es un factor clave del desempeño de la gestión de operaciones para el desarrollo de los procesos, en la logística de abastecimiento, en producción, programación de producción y logística en relación a la distribución.
     
-    p.mb-5(data-aos="fade-right") Reconocemos que la logística representa una de las partes fundamentales más importantes para las empresas; sin embargo, uno de los retos más grandes que tiene la gestión logística es el reclutamiento de personal capacitado para dirigir la empresa. Actualmente, podemos decir que la logística tiene un impacto importante en los diseños gerenciales porque de estos dependerá la competitividad y la dinámica comercial y empresarial que tiene toda organización.
+    p(data-aos="fade-right") Reconocemos que la logística representa una de las partes fundamentales más importantes para las empresas; sin embargo, uno de los retos más grandes que tiene la gestión logística es el reclutamiento de personal capacitado para dirigir la empresa. Actualmente, podemos decir que la logística tiene un impacto importante en los diseños gerenciales porque de estos dependerá la competitividad y la dinámica comercial y empresarial que tiene toda organización.
 
     Separador 
-
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_3_1 3.1 Gestión del talento humano por competencias
     
@@ -232,7 +231,7 @@
     
     p.text-center.fw-bold(data-aos="fade-right") El contenido de un plan de capacitación puede incluir cuatro formas de cambio de la conducta, a saber: 
 
-    .d-flex.flex-wrap.justify-content-center.tarjeta.p-4.col-xl-10.mx-auto.mb-5
+    .d-flex.flex-wrap.justify-content-center.tarjeta.p-4.col-xl-10.mx-auto.mb-lg-5.mb-4
       .mb-4.mb-xl-0.d-flex.col-12.col-lg-5.col-xl.mx-2(data-aos="fade-right")
         .d-flex.tarjeta-introduccion(style="background-color: #C4F2F1")
           p.w-100.d-flex.d.align-items-center.justify-content-center.text-center.mb-0.fw-bold Transmisión de la información
