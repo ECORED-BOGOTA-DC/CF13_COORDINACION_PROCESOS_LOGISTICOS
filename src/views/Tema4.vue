@@ -67,7 +67,7 @@
       img.col-xl-4.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-auto.mx-auto(src="@/assets/curso/temas/tema4/img-4.png" style="max-width: 505px" alt="Imagen decorativa" data-aos="fade-left")
 
     .cajon.color-primario.p-4.mb-4(data-aos="fade-left" style="background-color: #F2F6FE")
-      p.mb-0 La ejecución de la evaluación de desempeño cuenta con un propósito y un proceso; el propósito es la ejecución de la revisión del comportamiento y del trabajo del empleado desarrollado, para reconocer sus méritos y realizar corrección de sus debilidades mientras que el proceso es cada paso que tiene la empresa destinado para esa evaluación, los pasos dependen del tamaño y el tipo de la empresa. 
+      p.mb-0 La ejecución de la evaluación de desempeño cuenta con un propósito y un proceso; el propósito es la ejecución de la revisión del comportamiento y del trabajo del empleado desarrollado, para reconocer sus méritos y realizar corrección de sus debilidades, mientras que el proceso es cada paso que tiene la empresa destinada para esa evaluación, los pasos dependen del tamaño y el tipo de la empresa. 
     
     p.mb-5(data-aos="fade-right") Para las empresas es de gran importancia el desempeño de sus empleados, es por eso que se hace la evaluación de desempeño que proporciona beneficios a la empresa y a las personas que se evalúan. Varios de esos beneficios son internos y otros externos. Por ejemplo: un operario requiere que le digan si está haciendo las cosas bien, esto es más que un factor motivacional, es un factor de apoyo que le indica a cada operario su importancia en la empresa mientras que para la empresa se logra la identificación una necesidad cubierta a conformidad. Es por eso que se debe evaluar y se recomienda tener en cuenta las siguientes líneas básicas:
 
@@ -81,7 +81,7 @@
             img.mx-auto(src='@/assets/curso/temas/tema4/img-6.svg' style="max-width: 104px" alt="Imagen decorativa")
           .tarjeta.tarjeta-e-1.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6; box-shadow: 0 2px 4px 4px #00000010")
             .p-4.py-md-3.d-flex.flex-wrap.align-items-center
-              p.mb-0.order-2.order-md-1.col-md.pe-md-4 La evaluación debe abarcar no solo el desempeño en el cargo ocupado sino también el alcance de metas y objetivos logrados en el desarrollo de sus actividades y funciones. 
+              p.mb-0.order-2.order-md-1.col-md.pe-md-4 La evaluación debe abarcar no solo el desempeño en el cargo ocupado, sino también el alcance de metas y objetivos logrados en el desarrollo de sus actividades y funciones. 
 
         .tarjeta-avatar-b.tarjeta-avatar-b.col-xl-11.me-xl-auto.mb-4(data-aos="fade-right")
           .tarjeta-avatar-b__img
@@ -208,9 +208,9 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema4/img-14.jpg')})`}" data-aos="fade-right"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-left")
-        p.mb-0 Dentro del mundo global la organización, direccionada por el departamento de talento humano, gira siempre en busca de mejorar la calidad e integralidad de sus empleados con el objetivo de lograr las metas y necesidades de los mismos.
+        p.mb-0 Dentro del mundo global, la organización, direccionada por el departamento de talento humano, gira siempre en busca de mejorar la calidad e integralidad de sus empleados con el objetivo de lograr las metas y necesidades de los mismos.
 
-    p.mb-5(data-aos="fade-right") Debemos reconocer que existen varias formas de realizar la evaluación de desempeño con un único fin mejorar el ambiente laboral y desempeño del empleado en su ámbito, muchas veces se clasifica según quien realiza dicha evaluación. Ahora tomando como criterio quien realiza la evaluación, tenemos los siguientes tipos: 
+    p.mb-5(data-aos="fade-right") Debemos reconocer que existen varias formas de realizar la evaluación de desempeño con un único fin mejorar el ambiente laboral y desempeño del empleado en su ámbito, muchas veces se clasifica según quien realiza dicha evaluación. Ahora, tomando como criterio quien realiza la evaluación, tenemos los siguientes tipos: 
 
     .d-flex.flex-wrap.mb-4
       .col-xl-8.col-lg-7.pe-lg-4.order-2.order-lg-1
@@ -286,7 +286,7 @@
     .titulo-segundo.color-acento-botones(data-aos="fade-right")
       h2#t_4_4 4.4 Mejoramiento continuo
     
-    p.mb-5(data-aos="fade-right") Cuando hacemos referencia en el departamento de talento humano en relación con la técnica de mejoramiento continuo nos referimos a que la mejora continua es identificada como un proceso que pretende mejorar los productos, servicios y procesos de una organización mediante una actitud general. Revisemos los siguientes conceptos:
+    p.mb-5(data-aos="fade-right") Cuando hacemos referencia en el departamento de talento humano en relación con la técnica de mejoramiento continuo, nos referimos a que la mejora continua es identificada como un proceso que pretende mejorar los productos, servicios y procesos de una organización mediante una actitud general. Revisemos los siguientes conceptos:
 
     .row.justify-content-center
       .col-md-6.col-xl-4.mb-4.d-flex
@@ -318,7 +318,7 @@
       .col-lg-8.col-xl-9.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
         .cajon.color-acento-contenido.p-4.mb-4
           p.mb-0 El programa o plan de formación y capacitación, busca desarrollar actividades de formación y capacitación para todo el recurso humano de la empresa, a través de la generación de los conocimientos, saberes, desarrollo, actualización y fortalecimiento de las competencias que incrementan la capacidad individual y colectiva de los empleadores para contribuir al cumplimiento de la misión empresarial.
-        p En otras palabras, una vez efectuada la detección y habiendo determinado las necesidades de la capacitación se debe iniciar a preparar el plan de formación de capacitación que se va a impartir en los empleados de la organización a la cual prestan sus servicios en el desarrollo de las actividades. 
+        p En otras palabras, una vez efectuada la detección y habiendo determinado las necesidades de la capacitación, se debe iniciar a preparar el plan de formación de capacitación que se va a impartir en los empleados de la organización a la cual prestan sus servicios en el desarrollo de las actividades. 
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto.order-1.order-lg-2(src="@/assets/curso/temas/tema4/img-20.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
     
     p.text-center.fw-bold(data-aos="fade-right") El programa de capacitación debe ir sistematizado de la siguiente forma:

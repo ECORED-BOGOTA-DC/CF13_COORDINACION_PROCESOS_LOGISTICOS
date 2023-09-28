@@ -42,8 +42,34 @@ export default {
         numero: '1',
         titulo: 'Conceptos generales gestión del talento humano',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '1.1',
+            titulo: 'Gestión del conocimiento',
+            hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Capital humano',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Planeación estratégica del talento humano',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: 'Importancia del talento humano en las organizaciones',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo: 'Responsabilidad del talento humano en las organizaciones',
+            hash: 't_1_5',
+          },
+        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
@@ -292,7 +318,8 @@ export default {
       link: 'https://www.redalyc.org/pdf/206/20611495008.pdf',
     },
     {
-      referencia: 'QuestionPro (s.f.). ¿Cómo medir el desempeño laboral? ',
+      referencia:
+        'QuestionPro (s.f.). Desempeño laboral: Qué es, cómo medirlo y mejorarlo.',
       link: 'https://www.questionpro.com/blog/es/desempeno-laboral/',
     },
     {

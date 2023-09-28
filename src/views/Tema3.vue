@@ -22,12 +22,12 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema3/img-2.jpg')})`}" data-aos="fade-left"
       )
       .bloque-texto-g__texto.p-4(data-aos="fade-right")
-        p.mb-0 Se conoce como un proceso sistemático de identificación el tipo de necesidades necesarias para cumplir un papel determinado en determinada empresa, logran encontrar a la persona idónea y adecuada para ocupar ese cargo que se requiere. Dentro de las competencias organizacionales encontramos la (NC 3000-02:2007) que define competencia organizacional como: el conjunto de características de la organización, de modo fundamental, vinculadas a su capital humano, en especial a sus conocimientos, valores y experiencias adquiridas, asociadas a sus procesos de trabajo esenciales.
+        p.mb-0 Se conoce como un proceso sistemático de identificación, el tipo de necesidades necesarias para cumplir un papel determinado en determinada empresa, logran encontrar a la persona idónea y adecuada para ocupar ese cargo que se requiere. Dentro de las competencias organizacionales encontramos la (NC 3000-02:2007) que define competencia organizacional como: el conjunto de características de la organización, de modo fundamental, vinculadas a su capital humano, en especial a sus conocimientos, valores y experiencias adquiridas, asociadas a sus procesos de trabajo esenciales.
     
     .d-flex.flex-wrap.mb-5.mb-lg-4
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-3.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
-        p La empresa de la actualidad ha venido evolucionando gracias a los diferentes cambios que se dan a diario en el mundo y que tienen una influencia notoria e importante en las decisiones que se toman y las acciones que se llevan a cabo en las organizaciones. El desarrollo de la gestión por competencias es muy importante, ya que los modelos de gestión están basados en éstas, convirtiéndolas en una herramienta valiosa en la administración del talento humano ya que te aporta dirección en procesos como:
+        p La empresa de la actualidad ha venido evolucionando gracias a los diferentes cambios que se dan a diario en el mundo y que tienen una influencia notoria e importante en las decisiones que se toman y las acciones que se llevan a cabo en las organizaciones. El desarrollo de la gestión por competencias es muy importante, ya que los modelos de gestión están basados en estas, convirtiéndolas en una herramienta valiosa en la administración del talento humano puesto que te aporta dirección en procesos como:
         ul.lista-ul--separador
           li.pb-2.mb-2
             span.fw-bold(style="color: #FE7062") a.
@@ -56,8 +56,8 @@
     .d-flex.flex-wrap.mb-5.mb-lg-4
       .col-lg-8.col-xl-9.pe-lg-4.order-2.order-lg-1(data-aos="fade-right")
         .cajon.color-secundario.p-4.mb-4(data-aos="fade-right" style="background-color: #F2F6FE")
-          p.mb-0 Dentro de las necesidades de las organizaciones se encuentran los recursos humanos, para el desarrollo de los procesos logísticos. Esta necesidad es de gran importancia porque es allí donde se reconoce el talento de cada persona para hacer las tareas para las que fue contratado y de esa forma aportar al desarrollo de los procesos logísticos garantizando el funcionamiento de la cadena logística empresarial.
-        p(data-aos="fade-right") Para lograr un buen resultado en la empresa el líder del área de logística, se necesita talento en los recursos humanos que trabajen en nuestro proceso y para ellos desde aquí se recomienda tres acciones:
+          p.mb-0 Dentro de las necesidades de las organizaciones se encuentran los recursos humanos, para el desarrollo de los procesos logísticos. Esta necesidad es de gran importancia porque es allí donde se reconoce el talento de cada persona para hacer las tareas para las que fue contratado y de esa forma aportar al desarrollo de los procesos logísticos, garantizando el funcionamiento de la cadena logística empresarial.
+        p(data-aos="fade-right") Para lograr un buen resultado en la empresa, el líder del área de logística, se necesita talento en los recursos humanos que trabajen en nuestro proceso y para ellos desde aquí se recomienda tres acciones:
         ul.lista-ul--separador
           li.pb-2.mb-2(data-aos="fade-right")
             span.fw-bold(style="color: #FE7062") 1.
@@ -137,7 +137,7 @@
             | Auxiliar de apoyo.
 
     .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left" style="background-color: #E6FAF9")
-      p.mb-0 Generalmente se presentan varios requisitos de personas en la gestión de estos perfiles y se hace recomendable tener unos formatos con la base de la descripción de cada cargo, estos formatos ayudan a la descripción del perfil requerido y facilita su búsqueda también. A continuación, se presenta un ejemplo de formato para que lo tenga presenta cuando se le presente la necesidad:
+      p.mb-0 Generalmente, se presentan varios requisitos de personas en la gestión de estos perfiles y se hace recomendable tener unos formatos con la base de la descripción de cada cargo, estos formatos ayudan a la descripción del perfil requerido y facilita su búsqueda también. A continuación, se presenta un ejemplo de formato para que lo tenga presenta cuando se le presente la necesidad:
     
     .col-xl-10.mx-auto
       .titulo-sexto.color-acento-botones(data-aos="fade-right")
@@ -227,7 +227,7 @@
         img.mx-auto(src='@/assets/curso/temas/tema3/img-6.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
-          p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-left") La capacitación jamás es una inversión, ni mucho menos un gasto para la empresa, ya que le genera productividad en el desarrollo de sus actividades logrando el cumplimiento de metas y objetivos basados en la satisfacción de necesidades de los clientes internos y externos de la empresa.
+          p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-left") La capacitación jamás es una inversión, ni mucho menos un gasto para la empresa, ya que le genera productividad en el desarrollo de sus actividades, logrando el cumplimiento de metas y objetivos basados en la satisfacción de necesidades de los clientes internos y externos de la empresa.
     
     p.text-center.fw-bold(data-aos="fade-right") El contenido de un plan de capacitación puede incluir cuatro formas de cambio de la conducta, a saber: 
 

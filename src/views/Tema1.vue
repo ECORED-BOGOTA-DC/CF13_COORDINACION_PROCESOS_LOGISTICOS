@@ -156,7 +156,7 @@
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
           p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-right") A cambio de los esfuerzos, las personas buscan recibir incentivos que se pueden ver representados en salarios, incentivos emocionales, bonos, recursos financieros, crecimiento profesional, capacitación o estudio, entre otros. 
     
-    p.fw-bold.text-center.mb-5(data-aos="fade-right") También se cuenta con las personas como recurso y como socio como se ve a continuación:
+    p.fw-bold.text-center.mb-5(data-aos="fade-right") También se cuenta con las personas como recurso y como socio, como se ve a continuación:
 
     .d-flex.flex-wrap.align-items-start.mb-4.position-relative
       img.col-md-5.col-lg-4.mx-auto.mb-4(src="@/assets/curso/temas/tema1/img-9.svg" style="max-width: 400px;" data-aos="fade-right" alt="Imagen decorativa")
@@ -198,7 +198,7 @@
                 | Formadores de equipos.
               li
                 i.fas.fa-angle-right(style="color: #1A0F91")
-                | Los incentivos al igual que las metas son negociadas.
+                | Los incentivos al igual que las metas, son negociadas.
               li
                 i.fas.fa-angle-right(style="color: #1A0F91")
                 | Se preocupan por los datos y resultados.
@@ -219,10 +219,10 @@
                 | Son propositivos.
               li
                 i.fas.fa-angle-right(style="color: #1A0F91")
-                | Enfatizan en la ética y la responsabilidad.
+                | Enfatizan la ética y la responsabilidad.
               li
                 i.fas.fa-angle-right(style="color: #1A0F91")
-                | Enfatizan en el conocimiento.
+                | Enfatizan el conocimiento.
               li
                 i.fas.fa-angle-right(style="color: #1A0F91")
                 | Saben que representan inteligencia y talento.
@@ -254,7 +254,7 @@
       .d-flex.flex-wrap(titulo="Características de la planificación de capital humano")
         .col-xl-11.mx-auto
           p La planificación del talento es la capacidad de anticipar el movimiento de los colaboradores al interior de las empresas, buscando acercarlos más a su centro misional, este sistema permite ajustar la oferta de personal interna y externa en un periodo dado. El propósito de hacer esto es, usar el mejor recurso de la empresa con eficiencia en la búsqueda de los objetivos.
-          p.mb-0 La planeación estratégica de recursos humanos es la fuerza con la que se nivela el personal, más exactamente su flujo porque ya se cuenta con la experiencia de que la alta rotación no es buena por varios motivos, con cada despido se va una parte de la empresa, ninguna misión empresarial apunta al rápido despido del personal, también se busca la posibilidad de facilitar la continuidad de los procesos a pesar de las personas que van de ingreso y de salida.
+          p.mb-0 La planeación estratégica de recursos humanos es la fuerza con la que se nivela el personal, más exactamente su flujo, porque ya se cuenta con la experiencia de que la alta rotación no es buena por varios motivos, con cada despido se va una parte de la empresa, ninguna misión empresarial apunta al rápido despido del personal, también se busca la posibilidad de facilitar la continuidad de los procesos a pesar de las personas que van de ingreso y de salida.
       .d-flex.flex-wrap(titulo="Bases de la planificación del capital humano")
         .d-flex.flex-wrap.col-xl-11.mx-auto
           .col-lg-8.pe-lg-4.mb-lg-0.mb-4
@@ -311,8 +311,8 @@
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema1/img-13.png" style="max-width: 295px;" data-aos="fade-right" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-left")
-          p.mb-0 La planeación estratégica de recursos humanos se puede identificar como el proceso que surge del análisis de las necesidades reales de la empresa en su entorno interno referente al recurso humano que debe estar disponible con cada movimiento de la empresa para mantenerla en un buen entorno interno y externo.
-        p.mb-0(data-aos="fade-left") La planeación estratégica del talento humano se relaciona que es un sistema que permite definir estrategias y métodos que construyen al cumplimiento diario de los objetivos y metas establecidas por la organización permitiendo el éxito del desarrollo organizacional y la articulación y objetividad en los programas, planes y proyectos.
+          p.mb-0 La planeación estratégica de recursos humanos se puede identificar como el proceso que surge del análisis de las necesidades reales de la empresa en su entorno interno, referente al recurso humano que debe estar disponible con cada movimiento de la empresa para mantenerla en un buen entorno interno y externo.
+        p.mb-0(data-aos="fade-left") La planeación estratégica del talento humano se relaciona que es un sistema que permite definir estrategias y métodos que construyen al cumplimiento diario de los objetivos y metas establecidas por la organización, permitiendo el éxito del desarrollo organizacional y la articulación y objetividad en los programas, planes y proyectos.
     
     .tarjeta-avatar-b.col-xl-11.mx-xl-auto.mb-5
       .tarjeta-avatar-b__img(data-aos="fade-right")
@@ -443,7 +443,7 @@
         img.mx-auto(src='@/assets/curso/temas/tema1/img-20.svg' style="max-width: 104px" alt="Imagen decorativa")
       .tarjeta.tarjeta--azul.ps-lg-5(style="background-color: #F6F6F6")
         .p-4.py-md-3.d-flex.flex-wrap.align-items-center
-          p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-left") Tanto el organigrama como la descripción de cada puesto deben estar por escrito para evitar dudas o duplicar funciones además deben ser comunicados abiertamente.
+          p.mb-0.order-2.order-md-1.col-md.pe-md-4(data-aos="fade-left") Tanto el organigrama como la descripción de cada puesto deben estar por escrito para evitar dudas o duplicar funciones, además deben ser comunicados abiertamente.
 
     p(data-aos="fade-right") Sin duda uno de los recursos más importantes con los que cuenta en todo momento cualquier tipo de empresa son las personas que día a día entregan gran parte de su vida a ellas para el logro del éxito tanto personal como empresarial, la necesidad de gestionar este recurso tan valioso ha hecho que las empresas dediquen un área a su gestión y dirección, la denominada y llamada Gestión del Talento Humano.
 
@@ -505,7 +505,7 @@
               img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-2.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
               | Clima laboral.
     
-    p.text-center(data-aos="fade-right") Estas funciones y responsabilidades permiten mejorar la gestión del talento humano dentro de la organización en pro y desarrollo de la misma
+    p.text-center(data-aos="fade-right") Estas funciones y responsabilidades permiten mejorar la gestión del talento humano dentro de la organización en pro y desarrollo de la misma.
 
 </template>
 

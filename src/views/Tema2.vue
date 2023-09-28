@@ -54,7 +54,7 @@
               img.pt-2.me-2(src="@/assets/curso/temas/tema1/decorador-1.svg" data-aos="fade-right" style="max-width: 11px; min-width: 11px")
               p <b>¿Qué es el Talento humano?</b>
                 br
-                | Es la interacción de las habilidades que posee toda persona y de las cuales se pueden identificar como: sus características, sus conocimientos, experiencias, inteligencia, pericia, actitud, carácter, e iniciativa que constituye a la final las competencias para aprender y desarrollarse en los diferentes contextos organizacionales dentro de la organización en el nuevo marco de globalización.
+                | Es la interacción de las habilidades que posee toda persona y de las cuales se pueden identificar como: sus características, sus conocimientos, experiencias, inteligencia, pericia, actitud, carácter, e iniciativa, que constituye a la final las competencias para aprender y desarrollarse en los diferentes contextos organizacionales dentro de la organización en el nuevo marco de globalización.
     
     p.mb-4.text-center.fw-bold(data-aos="fade-right") Ahora vemos los diferentes tipos de recursos organizacionales:
 
@@ -66,19 +66,19 @@
 
         .tarjeta.color-acento-botones--borde.p-3(x="17%" y="80%" numero="+")
           p.fw-bold Recursos humanos
-          p.mb-0 Son las personas que hacen parte de la organización, dependiendo del nivel jerárquico en el que se encuentre, es decir que función cumplen en las organizaciones en cada uno de los niveles ya sea en el alto, medio o bajo.
+          p.mb-0 Son las personas que hacen parte de la organización, dependiendo del nivel jerárquico en el que se encuentre, es decir, que función cumplen en las organizaciones en cada uno de los niveles, ya sea en el alto, medio o bajo.
         .tarjeta.color-acento-botones--borde.p-3(x="33.5%" y="18%" numero="+")
           p.fw-bold Recursos mercadológicos
-          p.mb-0 Son aquellos medios por los cuales la organización localiza entre el contacto e influye en sus clientes y usuarios, es decir todas aquellas formas por la cual la organización entra en contacto con el cliente, ya sea por medio de actividades de promociones que hagan a sus clientes por medio de correos, invitaciones entre otros.
+          p.mb-0 Son aquellos medios por los cuales la organización localiza entre el contacto e influye en sus clientes y usuarios, es decir, todas aquellas formas por la cual la organización entra en contacto con el cliente, ya sea por medio de actividades de promociones que hagan a sus clientes por medio de correos, invitaciones entre otros.
         .tarjeta.color-acento-botones--borde.p-3(x="50%" y="80%" numero="+")
           p.fw-bold Recursos financieros
-          p.mb-0 Es el capital que se dispone para la operación diaria de la organización, es decir los dineros, los recursos, el inventario que se hace líquido que está en la caja, la cartera que se recupera, es todo ese dinero que se dispone para la recuperación de la cartera.
+          p.mb-0 Es el capital que se dispone para la operación diaria de la organización, es decir, los dineros, los recursos, el inventario que se hace líquido que está en la caja, la cartera que se recupera, es todo ese dinero que se dispone para la recuperación de la cartera.
         .tarjeta.color-acento-botones--borde.p-3(x="66.5%" y="18%" numero="+")
           p.fw-bold Recursos físicos y materiales
           p.mb-0 Dentro de los recursos necesarios para las operaciones básicas en toda organización encontramos los siguientes, por ejemplo: la infraestructura física (local; bodega, insumos), todo aquello que necesita la empresa para funcionar en lo físico, lo que hace necesario el funcionamiento de la empresa por medio de los recursos físicos y materiales.
         .tarjeta.color-acento-botones--borde.p-3(x="83%" y="80%" numero="+")
           p.fw-bold Recursos administrativos
-          p.mb-0 Por medio de este se planea, organiza, dirige y controla las actividades de la organización, si vemos aquí claramente nos está hablando del proceso administrativo es decir planear, organizar, dirigir y controlar, con el propósito de lograr los objetivos organizacionales.
+          p.mb-0 Por medio de este se planea, organiza, dirige y controla las actividades de la organización, si vemos aquí claramente nos está hablando del proceso administrativo, es decir, planear, organizar, dirigir y controlar, con el propósito de lograr los objetivos organizacionales.
     
     .container-100.py-2(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-2.png')})`}"
@@ -109,7 +109,7 @@
         ul.lista-ul--separador
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
-            | Es de vital importancia ya que de esta depende la evolución y competitividad de una empresa.
+            | Es de vital importancia, ya que de esta depende la evolución y competitividad de una empresa.
           li.pb-2.mb-2
             i.fas.fa-angle-right(style="color: #FE7062; font-size: 20px")
             | Permiten que la gran mayoría de sus empleados accedan a los conocimientos para el desarrollo de sus actividades diarias.
@@ -202,7 +202,7 @@
         .tarjeta.p-4(titulo="El entrenamiento" style="background-color: #E6FAF9")
           p.mb-0 Es posibilitar espacios para que el personal de trabajo pueda adquirir habilidades que le permitan realizar su trabajo con productividad. <b>(Hacer)</b>.
         .tarjeta.p-4(titulo="La capacitación" style="background-color: #E6FAF9")
-          p.mb-0 Enseñar a sus empleados a pensar, el para que se ejecuta el trabajo. <b>(Saber hacer)</b>.
+          p.mb-0 Enseñar a sus empleados a pensar, el para qué se ejecuta el trabajo. <b>(Saber hacer)</b>.
         .tarjeta.p-4(titulo="El desarrollo de personal" style="background-color: #E6FAF9")
           p.mb-0 Identificar motivaciones y deseos que impulsen a realizar el trabajo con entusiasmo. <b>(Hacer + Saber + Querer)</b>.
         .tarjeta.p-4(titulo="El desarrollo organizacional" style="background-color: #E6FAF9")
@@ -294,11 +294,11 @@
         .tarjeta.p-4(titulo="Gestión de inventarios" style="background-color: #E6FAF9")
           p.mb-0 Es otro proceso que podemos destacar dentro de la logística y está relacionado con el control y manejo de los productos.
         .tarjeta.p-4(titulo="Almacenamiento" style="background-color: #E6FAF9")
-          p.mb-0 Consiste en el manejo temporal de los insumos, materias primas y productos terminados los cuales son puestos bajo control y seguimiento en un determinado espacio para evitar su deterioro hasta el momento de la entrega al cliente.
+          p.mb-0 Consiste en el manejo temporal de los insumos, materias primas y productos terminados, los cuales son puestos bajo control y seguimiento en un determinado espacio para evitar su deterioro hasta el momento de la entrega al cliente.
         .tarjeta.p-4(titulo="Transporte" style="background-color: #E6FAF9")
           p.mb-0 Medio para movilizar bienes o personas desde un punto hasta otro.
 
-    p.mb-5(data-aos="fade-right") La logística, se refiere y está compuesta por una serie de actividades o procesos, que unidos de una manera eficiente generan un resultado producto terminado o servicio prestado. Según Escudero (2019, P.2); “La logística es una actividad que tiene como finalidad satisfacer las necesidades del cliente, proporcionando productos y servicios en el momento, lugar y cantidad que los solicita, y todo ello al mínimo coste”.
+    p.mb-5(data-aos="fade-right") La logística se refiere y está compuesta por una serie de actividades o procesos, que unidos de una manera eficiente generan un resultado producto terminado o servicio prestado. Según Escudero (2019, P.2); “La logística es una actividad que tiene como finalidad satisfacer las necesidades del cliente, proporcionando productos y servicios en el momento, lugar y cantidad que los solicita, y todo ello al mínimo coste”.
 
     .container-100.py-2(
       :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/bg-1.png')})`}"
