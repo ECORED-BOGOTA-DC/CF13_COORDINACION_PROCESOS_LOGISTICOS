@@ -27,7 +27,7 @@
     .d-flex.flex-wrap.mb-5.mb-lg-4
       img.col-lg-4.col-xl-3.mx-auto.mb-4.mb-lg-auto(src="@/assets/curso/temas/tema3/img-3.png" style="max-width: 295px;" data-aos="fade-left" alt="Imagen decorativa")
       .col-lg-8.col-xl-9.ps-lg-4(data-aos="fade-right")
-        p La empresa de la actualidad ha venido evolucionando gracias a los diferentes cambios que se dan a diario en el mundo y que tienen una influencia notoria e importante en las decisiones que se toman y las acciones que se llevan a cabo en las organizaciones. El desarrollo de la gestión por competencias es muy importante, ya que los modelos de gestión están basados en estas, convirtiéndolas en una herramienta valiosa en la administración del talento humano puesto que te aporta dirección en procesos como:
+        p La empresa de la actualidad ha venido evolucionando gracias a los diferentes cambios que se dan a diario en el mundo y que tienen una influencia notoria e importante en las decisiones que se toman y las acciones que se llevan a cabo en las organizaciones. El desarrollo de la gestión por competencias es muy importante, ya que los modelos de gestión están basados en estas, convirtiéndolas en una herramienta valiosa en la administración del talento humano, puesto que te aporta dirección en procesos como:
         ul.lista-ul--separador
           li.pb-2.mb-2
             span.fw-bold(style="color: #FE7062") a.
